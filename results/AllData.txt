@@ -1,0 +1,3172 @@
+--------------------------LISTA v1 (orden de aparicion)--------------------------
+Palabra: en || Repeticiones: 17 || Binary code: No hay binario asignado
+Palabra:   || Repeticiones: 986 || Binary code: No hay binario asignado
+Palabra: una || Repeticiones: 14 || Binary code: No hay binario asignado
+Palabra: manana || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: fresca || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: de || Repeticiones: 52 || Binary code: No hay binario asignado
+Palabra: primavera || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: , || Repeticiones: 76 || Binary code: No hay binario asignado
+Palabra: cuando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: el || Repeticiones: 39 || Binary code: No hay binario asignado
+Palabra: sol || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: apenas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: asomaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: horizonte || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: joven || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aventurero || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: llamado || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: marcos || Repeticiones: 15 || Binary code: No hay binario asignado
+Palabra: desperto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: con || Repeticiones: 15 || Binary code: No hay binario asignado
+Palabra: entusiasmo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: propio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: quien || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: sabe || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: que || Repeticiones: 22 || Binary code: No hay binario asignado
+Palabra: le || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: espera || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: un || Repeticiones: 18 || Binary code: No hay binario asignado
+Palabra: dia || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: lleno || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: emociones || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: . || Repeticiones: 65 || Binary code: No hay binario asignado
+Palabra: la || Repeticiones: 22 || Binary code: No hay binario asignado
+Palabra: brisa || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: suave || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: entraba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: por || Repeticiones: 7 || Binary code: No hay binario asignado
+Palabra: ventana || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: abierta || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: su || Repeticiones: 22 || Binary code: No hay binario asignado
+Palabra: pequena || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cabana || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: traia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: consigo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aroma || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: las || Repeticiones: 16 || Binary code: No hay binario asignado
+Palabra: flores || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: silvestres || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: florecian || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: los || Repeticiones: 8 || Binary code: No hay binario asignado
+Palabra: campos || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: cercanos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: se || Repeticiones: 15 || Binary code: No hay binario asignado
+Palabra: estiro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: perezosamente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: disfrutando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: del || Repeticiones: 10 || Binary code: No hay binario asignado
+Palabra: ultimo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: momento || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: calma || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: antes || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: iniciar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: jornada || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: 
+ || Repeticiones: 26 || Binary code: No hay binario asignado
+Palabra: primer || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: rayo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ilumino || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: rostro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: y || Repeticiones: 41 || Binary code: No hay binario asignado
+Palabra: sonrisa || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: dibujo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sus || Repeticiones: 5 || Binary code: No hay binario asignado
+Palabra: labios || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: hoy || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: no || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: seria || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: cualquiera || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ; || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: emprenderia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: expedicion || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: hacia || Repeticiones: 5 || Binary code: No hay binario asignado
+Palabra: montanas || Repeticiones: 6 || Binary code: No hay binario asignado
+Palabra: azules || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: lugar || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: misterios || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: leyendas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: agilidad || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: levanto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cama || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: comenzo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: a || Repeticiones: 22 || Binary code: No hay binario asignado
+Palabra: prepararse || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: atuendo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: consistia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: camisa || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: lino || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pantalones || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cuero || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: resistente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: unas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: botas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: gastadas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pero || Repeticiones: 4 || Binary code: No hay binario asignado
+Palabra: comodas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aseguro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: capa || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sobre || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: hombros || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: recogio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mochila || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: habia || Repeticiones: 5 || Binary code: No hay binario asignado
+Palabra: guardado || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: provisiones || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: brujula || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mapas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: antiguos || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: pequeno || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cuaderno || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: para || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: anotar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: descubrimientos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: salio || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: dirigio || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: establo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: donde || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: lo || Repeticiones: 9 || Binary code: No hay binario asignado
+Palabra: esperaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: fiel || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: companero || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: caballo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: trueno || Repeticiones: 4 || Binary code: No hay binario asignado
+Palabra: este || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: noble || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: animal || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pelaje || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: negro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mirada || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: inteligente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: relincho || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: suavemente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: al || Repeticiones: 4 || Binary code: No hay binario asignado
+Palabra: verlo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: acaricio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: crin || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ofrecio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: manzana || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: montarlo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: juntos || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: emprendieron || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: camino || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: norte || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: alzaban || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: majestuosas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sendero || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: conducia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: era || Repeticiones: 4 || Binary code: No hay binario asignado
+Palabra: sinuoso || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: menudo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: peligroso || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: conocia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: bien || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pasado || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: anos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: explorando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cada || Repeticiones: 4 || Binary code: No hay binario asignado
+Palabra: rincon || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: region || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: conociendo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: secretos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: desentranando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: enigmas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: medida || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: avanzaban || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: paisaje || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cambiaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: verdes || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: colinas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: onduladas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: dieron || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: paso || Repeticiones: 4 || Binary code: No hay binario asignado
+Palabra: bosques || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: densos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: oscuros || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: arboles || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: altos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: susurraban || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: historias || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: viento || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: durante || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: trayecto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cruzo || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: varios || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: habitantes || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: bosque || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: vio || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: ciervos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pastando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tranquilamente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ardillas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: correteando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: entre || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: ramas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aves || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: colores || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: brillantes || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cantaban || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: melodias || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: alegres || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: encuentro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: recordatorio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: belleza || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: diversidad || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: naturaleza || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sentia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: profundo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: respeto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: entorno || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: rodeaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: siempre || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: procuraba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: dejar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: menor || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: rastro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: posible || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: despues || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: varias || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: horas || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: viaje || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: llegaron || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: base || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: desde || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: alli || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ascenso || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: volvia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mas || Repeticiones: 5 || Binary code: No hay binario asignado
+Palabra: empinado || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: desafiante || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: desmonto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tras || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: asegurarlo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: claro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: seguro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: continuo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pie || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: rocas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: penascos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: dificultaban || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: avance || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: experiencia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: determinacion || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: logro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: superar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: obstaculo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: corazon || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: latia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: fuerza || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: solo || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: esfuerzo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: fisico || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sino || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: emocion || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: estar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tan || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cerca || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: objetivo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: leyenda || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: decia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: alto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: encontraba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: antiguo || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: templo || Repeticiones: 7 || Binary code: No hay binario asignado
+Palabra: construido || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: civilizacion || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: perdida || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: hace || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: siglos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: albergaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tesoro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: invaluable || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: : || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cristal || Repeticiones: 5 || Binary code: No hay binario asignado
+Palabra: segun || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: creia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tenia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: poder || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: conceder || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sabiduria || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: infinita || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: poseyera || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: oido || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: hablar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: esta || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: nino || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aunque || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: muchos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: consideraban || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mito || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: estaba || Repeticiones: 4 || Binary code: No hay binario asignado
+Palabra: decidido || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: descubrir || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: verdad || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ascendia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: vegetacion || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: escasa || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aire || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: frio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: nubes || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: parecian || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: alcance || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mano || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: soplaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mayor || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: intensidad || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sin || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: embargo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: nada || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: esto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: detenia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: espiritu || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: impulsaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: seguir || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: adelante || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: desafiar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: limites || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: buscar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: respuestas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: alla || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: conocido || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: finalmente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ardua || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: escalada || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: llego || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cima || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ante || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: ojos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: extendia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: vasto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: valle || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: oculto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: centro || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: envuelto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aura || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mistica || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: alzaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: construccion || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: hecha || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: piedra || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: cubierta || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: musgo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: parecia || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: resistir || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tiempo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: dignidad || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sintio || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: mezcla || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: asombro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: reverencia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: contemplar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sabia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: punto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: entrar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sitio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sagrado || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cargado || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: historia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: misterio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: firme || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: entrada || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: grandes || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: puertas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: madera || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tallada || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: estaban || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: entreabiertas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: como || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: invitandolo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pasar || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: respiro || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: hondo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: umbral || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: interior || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: penumbra || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: iluminado || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: rayos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: luz || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: filtraban || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: grietas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: paredes || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: ambiente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: fresco || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tranquilo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: impregnado || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: venir || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: otra || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: epoca || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: avanzo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cautela || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: observando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: detalle || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: alrededor || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cubiertas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: inscripciones || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: grabados || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: narraban || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: antiguas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: batallas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: epicas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ceremonias || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: rituales || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sala || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: principal || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pedestal || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: descansaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: hermoso || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: imaginado || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: brillando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: constante || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: acerco || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: lentamente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sintiendo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: energia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: emanaba || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: extendio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: delicadeza || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tomo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ese || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: vision || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: inundo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: constructores || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: trabajando || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: proposito || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: comun || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: comprendio || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: verdadero || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: residia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: capacidad || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: unir || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: personas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: lograr || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: cosas || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: profunda || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: conexion || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aquellos || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: habian || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: venido || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: renovada || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: compartir || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: descubrimiento || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: mundo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: guardo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: regreso || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: largo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: gratitud || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: esperanza || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: monto || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: nuevamente || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: vuelta || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: casa || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sabiendo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aventura || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sido || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: exito || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: conocimiento || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: adquirido || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: guia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: futuras || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: generaciones || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: lorem || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ipsum || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: dolor || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: sit || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: amet || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: consectetur || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: adipiscing || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: elit || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pellentesque || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: lacinia || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: congue || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: massa || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: eu || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: facilisis || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: nullam || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ac || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: est || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: urna || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: pretium || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: lobortis || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: in || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: justo || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: fusce || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: convallis || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: aliquam || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: nibh || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: ut || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: faucibus || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: enim || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: venenatis || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: at || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: velit || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: ullamcorper || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: placerat || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: sed || Repeticiones: 3 || Binary code: No hay binario asignado
+Palabra: mauris || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: quis || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: hendrerit || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: erat || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: volutpat || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: vivamus || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ornare || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: leo || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: et || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: fringilla || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: tortor || Repeticiones: 2 || Binary code: No hay binario asignado
+Palabra: finibus || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: eget || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: praesent || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: vehicula || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: ligula || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: tincidunt || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: felis || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: luctus || Repeticiones: 1 || Binary code: No hay binario asignado
+Palabra: feugiat || Repeticiones: 1 || Binary code: No hay binario asignado
+Cabeza (primera palabra anadida): en
+Last (ultima palabra anadida): feugiat
+Palabras diferentes (tamano de la lista): 523
+============================================================
+------------------Arbol Recorrido Alf (IRD)-----------------
+Palabra: 
+
+Palabra:  
+Palabra: ,
+Palabra: .
+Palabra: :
+Palabra: ;
+Palabra: a
+Palabra: abierta
+Palabra: ac
+Palabra: acaricio
+Palabra: acerco
+Palabra: adelante
+Palabra: adipiscing
+Palabra: adquirido
+Palabra: agilidad
+Palabra: aire
+Palabra: al
+Palabra: albergaba
+Palabra: alcance
+Palabra: alegres
+Palabra: aliquam
+Palabra: alla
+Palabra: alli
+Palabra: alrededor
+Palabra: alto
+Palabra: altos
+Palabra: alzaba
+Palabra: alzaban
+Palabra: ambiente
+Palabra: amet
+Palabra: animal
+Palabra: anos
+Palabra: anotar
+Palabra: ante
+Palabra: antes
+Palabra: antiguas
+Palabra: antiguo
+Palabra: antiguos
+Palabra: apenas
+Palabra: aquellos
+Palabra: arboles
+Palabra: ardillas
+Palabra: ardua
+Palabra: aroma
+Palabra: ascendia
+Palabra: ascenso
+Palabra: asegurarlo
+Palabra: aseguro
+Palabra: asomaba
+Palabra: asombro
+Palabra: at
+Palabra: atuendo
+Palabra: aunque
+Palabra: aura
+Palabra: avance
+Palabra: avanzaban
+Palabra: avanzo
+Palabra: aventura
+Palabra: aventurero
+Palabra: aves
+Palabra: azules
+Palabra: base
+Palabra: batallas
+Palabra: belleza
+Palabra: bien
+Palabra: bosque
+Palabra: bosques
+Palabra: botas
+Palabra: brillando
+Palabra: brillantes
+Palabra: brisa
+Palabra: brujula
+Palabra: buscar
+Palabra: caballo
+Palabra: cabana
+Palabra: cada
+Palabra: calma
+Palabra: cama
+Palabra: cambiaba
+Palabra: camino
+Palabra: camisa
+Palabra: campos
+Palabra: cantaban
+Palabra: capa
+Palabra: capacidad
+Palabra: cargado
+Palabra: casa
+Palabra: cautela
+Palabra: centro
+Palabra: cerca
+Palabra: cercanos
+Palabra: ceremonias
+Palabra: ciervos
+Palabra: cima
+Palabra: civilizacion
+Palabra: claro
+Palabra: colinas
+Palabra: colores
+Palabra: comenzo
+Palabra: como
+Palabra: comodas
+Palabra: companero
+Palabra: compartir
+Palabra: comprendio
+Palabra: comun
+Palabra: con
+Palabra: conceder
+Palabra: conducia
+Palabra: conexion
+Palabra: congue
+Palabra: conocia
+Palabra: conocido
+Palabra: conociendo
+Palabra: conocimiento
+Palabra: consectetur
+Palabra: consideraban
+Palabra: consigo
+Palabra: consistia
+Palabra: constante
+Palabra: construccion
+Palabra: constructores
+Palabra: construido
+Palabra: contemplar
+Palabra: continuo
+Palabra: convallis
+Palabra: corazon
+Palabra: correteando
+Palabra: cosas
+Palabra: creia
+Palabra: crin
+Palabra: cristal
+Palabra: cruzo
+Palabra: cuaderno
+Palabra: cualquiera
+Palabra: cuando
+Palabra: cubierta
+Palabra: cubiertas
+Palabra: cuero
+Palabra: de
+Palabra: decia
+Palabra: decidido
+Palabra: dejar
+Palabra: del
+Palabra: delicadeza
+Palabra: densos
+Palabra: desafiante
+Palabra: desafiar
+Palabra: descansaba
+Palabra: descubrimiento
+Palabra: descubrimientos
+Palabra: descubrir
+Palabra: desde
+Palabra: desentranando
+Palabra: desmonto
+Palabra: desperto
+Palabra: despues
+Palabra: detalle
+Palabra: detenia
+Palabra: determinacion
+Palabra: dia
+Palabra: dibujo
+Palabra: dieron
+Palabra: dificultaban
+Palabra: dignidad
+Palabra: dirigio
+Palabra: disfrutando
+Palabra: diversidad
+Palabra: dolor
+Palabra: donde
+Palabra: durante
+Palabra: eget
+Palabra: el
+Palabra: elit
+Palabra: emanaba
+Palabra: embargo
+Palabra: emocion
+Palabra: emociones
+Palabra: empinado
+Palabra: emprenderia
+Palabra: emprendieron
+Palabra: en
+Palabra: encontraba
+Palabra: encuentro
+Palabra: energia
+Palabra: enigmas
+Palabra: enim
+Palabra: entorno
+Palabra: entraba
+Palabra: entrada
+Palabra: entrar
+Palabra: entre
+Palabra: entreabiertas
+Palabra: entusiasmo
+Palabra: envuelto
+Palabra: epicas
+Palabra: epoca
+Palabra: era
+Palabra: erat
+Palabra: escalada
+Palabra: escasa
+Palabra: ese
+Palabra: esfuerzo
+Palabra: espera
+Palabra: esperaba
+Palabra: esperanza
+Palabra: espiritu
+Palabra: est
+Palabra: esta
+Palabra: estaba
+Palabra: estaban
+Palabra: establo
+Palabra: estar
+Palabra: este
+Palabra: estiro
+Palabra: esto
+Palabra: et
+Palabra: eu
+Palabra: exito
+Palabra: expedicion
+Palabra: experiencia
+Palabra: explorando
+Palabra: extendia
+Palabra: extendio
+Palabra: facilisis
+Palabra: faucibus
+Palabra: felis
+Palabra: feugiat
+Palabra: fiel
+Palabra: filtraban
+Palabra: finalmente
+Palabra: finibus
+Palabra: firme
+Palabra: fisico
+Palabra: florecian
+Palabra: flores
+Palabra: fresca
+Palabra: fresco
+Palabra: fringilla
+Palabra: frio
+Palabra: fuerza
+Palabra: fusce
+Palabra: futuras
+Palabra: gastadas
+Palabra: generaciones
+Palabra: grabados
+Palabra: grandes
+Palabra: gratitud
+Palabra: grietas
+Palabra: guardado
+Palabra: guardo
+Palabra: guia
+Palabra: habia
+Palabra: habian
+Palabra: habitantes
+Palabra: hablar
+Palabra: hace
+Palabra: hacia
+Palabra: hecha
+Palabra: hendrerit
+Palabra: hermoso
+Palabra: historia
+Palabra: historias
+Palabra: hombros
+Palabra: hondo
+Palabra: horas
+Palabra: horizonte
+Palabra: hoy
+Palabra: iluminado
+Palabra: ilumino
+Palabra: imaginado
+Palabra: impregnado
+Palabra: impulsaba
+Palabra: in
+Palabra: infinita
+Palabra: iniciar
+Palabra: inscripciones
+Palabra: inteligente
+Palabra: intensidad
+Palabra: interior
+Palabra: inundo
+Palabra: invaluable
+Palabra: invitandolo
+Palabra: ipsum
+Palabra: jornada
+Palabra: joven
+Palabra: juntos
+Palabra: justo
+Palabra: la
+Palabra: labios
+Palabra: lacinia
+Palabra: largo
+Palabra: las
+Palabra: latia
+Palabra: le
+Palabra: lentamente
+Palabra: leo
+Palabra: levanto
+Palabra: leyenda
+Palabra: leyendas
+Palabra: ligula
+Palabra: limites
+Palabra: lino
+Palabra: llamado
+Palabra: llegaron
+Palabra: llego
+Palabra: lleno
+Palabra: lo
+Palabra: lobortis
+Palabra: lograr
+Palabra: logro
+Palabra: lorem
+Palabra: los
+Palabra: luctus
+Palabra: lugar
+Palabra: luz
+Palabra: madera
+Palabra: majestuosas
+Palabra: manana
+Palabra: mano
+Palabra: manzana
+Palabra: mapas
+Palabra: marcos
+Palabra: mas
+Palabra: massa
+Palabra: mauris
+Palabra: mayor
+Palabra: medida
+Palabra: melodias
+Palabra: menor
+Palabra: mente
+Palabra: menudo
+Palabra: mezcla
+Palabra: mirada
+Palabra: misterio
+Palabra: misterios
+Palabra: mistica
+Palabra: mito
+Palabra: mochila
+Palabra: momento
+Palabra: montanas
+Palabra: montarlo
+Palabra: monto
+Palabra: muchos
+Palabra: mundo
+Palabra: musgo
+Palabra: nada
+Palabra: narraban
+Palabra: naturaleza
+Palabra: negro
+Palabra: nibh
+Palabra: nino
+Palabra: no
+Palabra: noble
+Palabra: norte
+Palabra: nubes
+Palabra: nuevamente
+Palabra: nullam
+Palabra: objetivo
+Palabra: observando
+Palabra: obstaculo
+Palabra: oculto
+Palabra: ofrecio
+Palabra: oido
+Palabra: ojos
+Palabra: onduladas
+Palabra: ornare
+Palabra: oscuros
+Palabra: otra
+Palabra: paisaje
+Palabra: pantalones
+Palabra: para
+Palabra: parecia
+Palabra: parecian
+Palabra: paredes
+Palabra: pasado
+Palabra: pasar
+Palabra: paso
+Palabra: pastando
+Palabra: pedestal
+Palabra: pelaje
+Palabra: peligroso
+Palabra: pellentesque
+Palabra: penascos
+Palabra: penumbra
+Palabra: pequena
+Palabra: pequeno
+Palabra: perdida
+Palabra: perezosamente
+Palabra: pero
+Palabra: personas
+Palabra: pie
+Palabra: piedra
+Palabra: placerat
+Palabra: poder
+Palabra: por
+Palabra: poseyera
+Palabra: posible
+Palabra: praesent
+Palabra: prepararse
+Palabra: pretium
+Palabra: primavera
+Palabra: primer
+Palabra: principal
+Palabra: procuraba
+Palabra: profunda
+Palabra: profundo
+Palabra: propio
+Palabra: proposito
+Palabra: provisiones
+Palabra: puertas
+Palabra: punto
+Palabra: que
+Palabra: quien
+Palabra: quis
+Palabra: ramas
+Palabra: rastro
+Palabra: rayo
+Palabra: rayos
+Palabra: recogio
+Palabra: recordatorio
+Palabra: region
+Palabra: regreso
+Palabra: relincho
+Palabra: renovada
+Palabra: residia
+Palabra: resistente
+Palabra: resistir
+Palabra: respeto
+Palabra: respiro
+Palabra: respuestas
+Palabra: reverencia
+Palabra: rincon
+Palabra: rituales
+Palabra: rocas
+Palabra: rodeaba
+Palabra: rostro
+Palabra: sabe
+Palabra: sabia
+Palabra: sabiduria
+Palabra: sabiendo
+Palabra: sagrado
+Palabra: sala
+Palabra: salio
+Palabra: se
+Palabra: secretos
+Palabra: sed
+Palabra: seguir
+Palabra: segun
+Palabra: seguro
+Palabra: sendero
+Palabra: sentia
+Palabra: seria
+Palabra: sido
+Palabra: siempre
+Palabra: siglos
+Palabra: silvestres
+Palabra: sin
+Palabra: sino
+Palabra: sintiendo
+Palabra: sintio
+Palabra: sinuoso
+Palabra: sit
+Palabra: sitio
+Palabra: sobre
+Palabra: sol
+Palabra: solo
+Palabra: sonrisa
+Palabra: soplaba
+Palabra: su
+Palabra: suave
+Palabra: suavemente
+Palabra: superar
+Palabra: sus
+Palabra: susurraban
+Palabra: tallada
+Palabra: tan
+Palabra: templo
+Palabra: tenia
+Palabra: tesoro
+Palabra: tiempo
+Palabra: tincidunt
+Palabra: tomo
+Palabra: tortor
+Palabra: trabajando
+Palabra: traia
+Palabra: tranquilamente
+Palabra: tranquilo
+Palabra: tras
+Palabra: trayecto
+Palabra: trueno
+Palabra: ullamcorper
+Palabra: ultimo
+Palabra: umbral
+Palabra: un
+Palabra: una
+Palabra: unas
+Palabra: unir
+Palabra: urna
+Palabra: ut
+Palabra: valle
+Palabra: varias
+Palabra: varios
+Palabra: vasto
+Palabra: vegetacion
+Palabra: vehicula
+Palabra: velit
+Palabra: venenatis
+Palabra: venido
+Palabra: venir
+Palabra: ventana
+Palabra: verdad
+Palabra: verdadero
+Palabra: verdes
+Palabra: verlo
+Palabra: viaje
+Palabra: viento
+Palabra: vio
+Palabra: vision
+Palabra: vivamus
+Palabra: volutpat
+Palabra: volvia
+Palabra: vuelta
+Palabra: y
+============================================================
+--------------------LISTA v2 (Alfabetica)-------------------
+Palabra: 
+
+Palabra:  
+Palabra: ,
+Palabra: .
+Palabra: :
+Palabra: ;
+Palabra: a
+Palabra: abierta
+Palabra: ac
+Palabra: acaricio
+Palabra: acerco
+Palabra: adelante
+Palabra: adipiscing
+Palabra: adquirido
+Palabra: agilidad
+Palabra: aire
+Palabra: al
+Palabra: albergaba
+Palabra: alcance
+Palabra: alegres
+Palabra: aliquam
+Palabra: alla
+Palabra: alli
+Palabra: alrededor
+Palabra: alto
+Palabra: altos
+Palabra: alzaba
+Palabra: alzaban
+Palabra: ambiente
+Palabra: amet
+Palabra: animal
+Palabra: anos
+Palabra: anotar
+Palabra: ante
+Palabra: antes
+Palabra: antiguas
+Palabra: antiguo
+Palabra: antiguos
+Palabra: apenas
+Palabra: aquellos
+Palabra: arboles
+Palabra: ardillas
+Palabra: ardua
+Palabra: aroma
+Palabra: ascendia
+Palabra: ascenso
+Palabra: asegurarlo
+Palabra: aseguro
+Palabra: asomaba
+Palabra: asombro
+Palabra: at
+Palabra: atuendo
+Palabra: aunque
+Palabra: aura
+Palabra: avance
+Palabra: avanzaban
+Palabra: avanzo
+Palabra: aventura
+Palabra: aventurero
+Palabra: aves
+Palabra: azules
+Palabra: base
+Palabra: batallas
+Palabra: belleza
+Palabra: bien
+Palabra: bosque
+Palabra: bosques
+Palabra: botas
+Palabra: brillando
+Palabra: brillantes
+Palabra: brisa
+Palabra: brujula
+Palabra: buscar
+Palabra: caballo
+Palabra: cabana
+Palabra: cada
+Palabra: calma
+Palabra: cama
+Palabra: cambiaba
+Palabra: camino
+Palabra: camisa
+Palabra: campos
+Palabra: cantaban
+Palabra: capa
+Palabra: capacidad
+Palabra: cargado
+Palabra: casa
+Palabra: cautela
+Palabra: centro
+Palabra: cerca
+Palabra: cercanos
+Palabra: ceremonias
+Palabra: ciervos
+Palabra: cima
+Palabra: civilizacion
+Palabra: claro
+Palabra: colinas
+Palabra: colores
+Palabra: comenzo
+Palabra: como
+Palabra: comodas
+Palabra: companero
+Palabra: compartir
+Palabra: comprendio
+Palabra: comun
+Palabra: con
+Palabra: conceder
+Palabra: conducia
+Palabra: conexion
+Palabra: congue
+Palabra: conocia
+Palabra: conocido
+Palabra: conociendo
+Palabra: conocimiento
+Palabra: consectetur
+Palabra: consideraban
+Palabra: consigo
+Palabra: consistia
+Palabra: constante
+Palabra: construccion
+Palabra: constructores
+Palabra: construido
+Palabra: contemplar
+Palabra: continuo
+Palabra: convallis
+Palabra: corazon
+Palabra: correteando
+Palabra: cosas
+Palabra: creia
+Palabra: crin
+Palabra: cristal
+Palabra: cruzo
+Palabra: cuaderno
+Palabra: cualquiera
+Palabra: cuando
+Palabra: cubierta
+Palabra: cubiertas
+Palabra: cuero
+Palabra: de
+Palabra: decia
+Palabra: decidido
+Palabra: dejar
+Palabra: del
+Palabra: delicadeza
+Palabra: densos
+Palabra: desafiante
+Palabra: desafiar
+Palabra: descansaba
+Palabra: descubrimiento
+Palabra: descubrimientos
+Palabra: descubrir
+Palabra: desde
+Palabra: desentranando
+Palabra: desmonto
+Palabra: desperto
+Palabra: despues
+Palabra: detalle
+Palabra: detenia
+Palabra: determinacion
+Palabra: dia
+Palabra: dibujo
+Palabra: dieron
+Palabra: dificultaban
+Palabra: dignidad
+Palabra: dirigio
+Palabra: disfrutando
+Palabra: diversidad
+Palabra: dolor
+Palabra: donde
+Palabra: durante
+Palabra: eget
+Palabra: el
+Palabra: elit
+Palabra: emanaba
+Palabra: embargo
+Palabra: emocion
+Palabra: emociones
+Palabra: empinado
+Palabra: emprenderia
+Palabra: emprendieron
+Palabra: en
+Palabra: encontraba
+Palabra: encuentro
+Palabra: energia
+Palabra: enigmas
+Palabra: enim
+Palabra: entorno
+Palabra: entraba
+Palabra: entrada
+Palabra: entrar
+Palabra: entre
+Palabra: entreabiertas
+Palabra: entusiasmo
+Palabra: envuelto
+Palabra: epicas
+Palabra: epoca
+Palabra: era
+Palabra: erat
+Palabra: escalada
+Palabra: escasa
+Palabra: ese
+Palabra: esfuerzo
+Palabra: espera
+Palabra: esperaba
+Palabra: esperanza
+Palabra: espiritu
+Palabra: est
+Palabra: esta
+Palabra: estaba
+Palabra: estaban
+Palabra: establo
+Palabra: estar
+Palabra: este
+Palabra: estiro
+Palabra: esto
+Palabra: et
+Palabra: eu
+Palabra: exito
+Palabra: expedicion
+Palabra: experiencia
+Palabra: explorando
+Palabra: extendia
+Palabra: extendio
+Palabra: facilisis
+Palabra: faucibus
+Palabra: felis
+Palabra: feugiat
+Palabra: fiel
+Palabra: filtraban
+Palabra: finalmente
+Palabra: finibus
+Palabra: firme
+Palabra: fisico
+Palabra: florecian
+Palabra: flores
+Palabra: fresca
+Palabra: fresco
+Palabra: fringilla
+Palabra: frio
+Palabra: fuerza
+Palabra: fusce
+Palabra: futuras
+Palabra: gastadas
+Palabra: generaciones
+Palabra: grabados
+Palabra: grandes
+Palabra: gratitud
+Palabra: grietas
+Palabra: guardado
+Palabra: guardo
+Palabra: guia
+Palabra: habia
+Palabra: habian
+Palabra: habitantes
+Palabra: hablar
+Palabra: hace
+Palabra: hacia
+Palabra: hecha
+Palabra: hendrerit
+Palabra: hermoso
+Palabra: historia
+Palabra: historias
+Palabra: hombros
+Palabra: hondo
+Palabra: horas
+Palabra: horizonte
+Palabra: hoy
+Palabra: iluminado
+Palabra: ilumino
+Palabra: imaginado
+Palabra: impregnado
+Palabra: impulsaba
+Palabra: in
+Palabra: infinita
+Palabra: iniciar
+Palabra: inscripciones
+Palabra: inteligente
+Palabra: intensidad
+Palabra: interior
+Palabra: inundo
+Palabra: invaluable
+Palabra: invitandolo
+Palabra: ipsum
+Palabra: jornada
+Palabra: joven
+Palabra: juntos
+Palabra: justo
+Palabra: la
+Palabra: labios
+Palabra: lacinia
+Palabra: largo
+Palabra: las
+Palabra: latia
+Palabra: le
+Palabra: lentamente
+Palabra: leo
+Palabra: levanto
+Palabra: leyenda
+Palabra: leyendas
+Palabra: ligula
+Palabra: limites
+Palabra: lino
+Palabra: llamado
+Palabra: llegaron
+Palabra: llego
+Palabra: lleno
+Palabra: lo
+Palabra: lobortis
+Palabra: lograr
+Palabra: logro
+Palabra: lorem
+Palabra: los
+Palabra: luctus
+Palabra: lugar
+Palabra: luz
+Palabra: madera
+Palabra: majestuosas
+Palabra: manana
+Palabra: mano
+Palabra: manzana
+Palabra: mapas
+Palabra: marcos
+Palabra: mas
+Palabra: massa
+Palabra: mauris
+Palabra: mayor
+Palabra: medida
+Palabra: melodias
+Palabra: menor
+Palabra: mente
+Palabra: menudo
+Palabra: mezcla
+Palabra: mirada
+Palabra: misterio
+Palabra: misterios
+Palabra: mistica
+Palabra: mito
+Palabra: mochila
+Palabra: momento
+Palabra: montanas
+Palabra: montarlo
+Palabra: monto
+Palabra: muchos
+Palabra: mundo
+Palabra: musgo
+Palabra: nada
+Palabra: narraban
+Palabra: naturaleza
+Palabra: negro
+Palabra: nibh
+Palabra: nino
+Palabra: no
+Palabra: noble
+Palabra: norte
+Palabra: nubes
+Palabra: nuevamente
+Palabra: nullam
+Palabra: objetivo
+Palabra: observando
+Palabra: obstaculo
+Palabra: oculto
+Palabra: ofrecio
+Palabra: oido
+Palabra: ojos
+Palabra: onduladas
+Palabra: ornare
+Palabra: oscuros
+Palabra: otra
+Palabra: paisaje
+Palabra: pantalones
+Palabra: para
+Palabra: parecia
+Palabra: parecian
+Palabra: paredes
+Palabra: pasado
+Palabra: pasar
+Palabra: paso
+Palabra: pastando
+Palabra: pedestal
+Palabra: pelaje
+Palabra: peligroso
+Palabra: pellentesque
+Palabra: penascos
+Palabra: penumbra
+Palabra: pequena
+Palabra: pequeno
+Palabra: perdida
+Palabra: perezosamente
+Palabra: pero
+Palabra: personas
+Palabra: pie
+Palabra: piedra
+Palabra: placerat
+Palabra: poder
+Palabra: por
+Palabra: poseyera
+Palabra: posible
+Palabra: praesent
+Palabra: prepararse
+Palabra: pretium
+Palabra: primavera
+Palabra: primer
+Palabra: principal
+Palabra: procuraba
+Palabra: profunda
+Palabra: profundo
+Palabra: propio
+Palabra: proposito
+Palabra: provisiones
+Palabra: puertas
+Palabra: punto
+Palabra: que
+Palabra: quien
+Palabra: quis
+Palabra: ramas
+Palabra: rastro
+Palabra: rayo
+Palabra: rayos
+Palabra: recogio
+Palabra: recordatorio
+Palabra: region
+Palabra: regreso
+Palabra: relincho
+Palabra: renovada
+Palabra: residia
+Palabra: resistente
+Palabra: resistir
+Palabra: respeto
+Palabra: respiro
+Palabra: respuestas
+Palabra: reverencia
+Palabra: rincon
+Palabra: rituales
+Palabra: rocas
+Palabra: rodeaba
+Palabra: rostro
+Palabra: sabe
+Palabra: sabia
+Palabra: sabiduria
+Palabra: sabiendo
+Palabra: sagrado
+Palabra: sala
+Palabra: salio
+Palabra: se
+Palabra: secretos
+Palabra: sed
+Palabra: seguir
+Palabra: segun
+Palabra: seguro
+Palabra: sendero
+Palabra: sentia
+Palabra: seria
+Palabra: sido
+Palabra: siempre
+Palabra: siglos
+Palabra: silvestres
+Palabra: sin
+Palabra: sino
+Palabra: sintiendo
+Palabra: sintio
+Palabra: sinuoso
+Palabra: sit
+Palabra: sitio
+Palabra: sobre
+Palabra: sol
+Palabra: solo
+Palabra: sonrisa
+Palabra: soplaba
+Palabra: su
+Palabra: suave
+Palabra: suavemente
+Palabra: superar
+Palabra: sus
+Palabra: susurraban
+Palabra: tallada
+Palabra: tan
+Palabra: templo
+Palabra: tenia
+Palabra: tesoro
+Palabra: tiempo
+Palabra: tincidunt
+Palabra: tomo
+Palabra: tortor
+Palabra: trabajando
+Palabra: traia
+Palabra: tranquilamente
+Palabra: tranquilo
+Palabra: tras
+Palabra: trayecto
+Palabra: trueno
+Palabra: ullamcorper
+Palabra: ultimo
+Palabra: umbral
+Palabra: un
+Palabra: una
+Palabra: unas
+Palabra: unir
+Palabra: urna
+Palabra: ut
+Palabra: valle
+Palabra: varias
+Palabra: varios
+Palabra: vasto
+Palabra: vegetacion
+Palabra: vehicula
+Palabra: velit
+Palabra: venenatis
+Palabra: venido
+Palabra: venir
+Palabra: ventana
+Palabra: verdad
+Palabra: verdadero
+Palabra: verdes
+Palabra: verlo
+Palabra: viaje
+Palabra: viento
+Palabra: vio
+Palabra: vision
+Palabra: vivamus
+Palabra: volutpat
+Palabra: volvia
+Palabra: vuelta
+Palabra: y
+Cabeza: 
+
+Last: y
+Palabras diferentes (tamano de la lista): 523
+============================================================
+--------------------LISTA v3 (Repeticiones)-------------------
+Cantidad de Comparaciones SelDir: 136503
+Palabra:   || Repeticiones: 986 || Binary code: 0000000000
+Palabra: , || Repeticiones: 76 || Binary code: 0000000001
+Palabra: . || Repeticiones: 65 || Binary code: 0000000010
+Palabra: de || Repeticiones: 52 || Binary code: 0000000011
+Palabra: y || Repeticiones: 41 || Binary code: 0000000100
+Palabra: el || Repeticiones: 39 || Binary code: 0000000101
+Palabra: 
+ || Repeticiones: 26 || Binary code: 0000000110
+Palabra: su || Repeticiones: 22 || Binary code: 0000000111
+Palabra: que || Repeticiones: 22 || Binary code: 0000001000
+Palabra: la || Repeticiones: 22 || Binary code: 0000001001
+Palabra: a || Repeticiones: 22 || Binary code: 0000001010
+Palabra: un || Repeticiones: 18 || Binary code: 0000001011
+Palabra: en || Repeticiones: 17 || Binary code: 0000001100
+Palabra: las || Repeticiones: 16 || Binary code: 0000001101
+Palabra: se || Repeticiones: 15 || Binary code: 0000001110
+Palabra: marcos || Repeticiones: 15 || Binary code: 0000001111
+Palabra: con || Repeticiones: 15 || Binary code: 0000010000
+Palabra: una || Repeticiones: 14 || Binary code: 0000010001
+Palabra: del || Repeticiones: 10 || Binary code: 0000010010
+Palabra: lo || Repeticiones: 9 || Binary code: 0000010011
+Palabra: los || Repeticiones: 8 || Binary code: 0000010100
+Palabra: por || Repeticiones: 7 || Binary code: 0000010101
+Palabra: templo || Repeticiones: 7 || Binary code: 0000010110
+Palabra: montanas || Repeticiones: 6 || Binary code: 0000010111
+Palabra: mas || Repeticiones: 5 || Binary code: 0000011000
+Palabra: sus || Repeticiones: 5 || Binary code: 0000011001
+Palabra: habia || Repeticiones: 5 || Binary code: 0000011010
+Palabra: hacia || Repeticiones: 5 || Binary code: 0000011011
+Palabra: cristal || Repeticiones: 5 || Binary code: 0000011100
+Palabra: pero || Repeticiones: 4 || Binary code: 0000011101
+Palabra: era || Repeticiones: 4 || Binary code: 0000011110
+Palabra: paso || Repeticiones: 4 || Binary code: 0000011111
+Palabra: al || Repeticiones: 4 || Binary code: 0000100000
+Palabra: cada || Repeticiones: 4 || Binary code: 0000100001
+Palabra: trueno || Repeticiones: 4 || Binary code: 0000100010
+Palabra: estaba || Repeticiones: 4 || Binary code: 0000100011
+Palabra: antes || Repeticiones: 3 || Binary code: 0000100100
+Palabra: azules || Repeticiones: 3 || Binary code: 0000100101
+Palabra: antiguos || Repeticiones: 3 || Binary code: 0000100110
+Palabra: lleno || Repeticiones: 3 || Binary code: 0000100111
+Palabra: aventurero || Repeticiones: 3 || Binary code: 0000101000
+Palabra: sed || Repeticiones: 3 || Binary code: 0000101001
+Palabra: camino || Repeticiones: 3 || Binary code: 0000101010
+Palabra: juntos || Repeticiones: 3 || Binary code: 0000101011
+Palabra: seria || Repeticiones: 3 || Binary code: 0000101100
+Palabra: para || Repeticiones: 3 || Binary code: 0000101101
+Palabra: no || Repeticiones: 3 || Binary code: 0000101110
+Palabra: donde || Repeticiones: 3 || Binary code: 0000101111
+Palabra: desde || Repeticiones: 2 || Binary code: 0000110000
+Palabra: calma || Repeticiones: 2 || Binary code: 0000110001
+Palabra: momento || Repeticiones: 2 || Binary code: 0000110010
+Palabra: viaje || Repeticiones: 2 || Binary code: 0000110011
+Palabra: horas || Repeticiones: 2 || Binary code: 0000110100
+Palabra: tortor || Repeticiones: 2 || Binary code: 0000110101
+Palabra: fringilla || Repeticiones: 2 || Binary code: 0000110110
+Palabra: mano || Repeticiones: 2 || Binary code: 0000110111
+Palabra: dia || Repeticiones: 2 || Binary code: 0000111000
+Palabra: le || Repeticiones: 2 || Binary code: 0000111001
+Palabra: campos || Repeticiones: 2 || Binary code: 0000111010
+Palabra: placerat || Repeticiones: 2 || Binary code: 0000111011
+Palabra: velit || Repeticiones: 2 || Binary code: 0000111100
+Palabra: emprendieron || Repeticiones: 2 || Binary code: 0000111101
+Palabra: venenatis || Repeticiones: 2 || Binary code: 0000111110
+Palabra: nibh || Repeticiones: 2 || Binary code: 0000111111
+Palabra: aliquam || Repeticiones: 2 || Binary code: 0001000000
+Palabra: fusce || Repeticiones: 2 || Binary code: 0001000001
+Palabra: justo || Repeticiones: 2 || Binary code: 0001000010
+Palabra: paredes || Repeticiones: 2 || Binary code: 0001000011
+Palabra: quien || Repeticiones: 2 || Binary code: 0001000100
+Palabra: est || Repeticiones: 2 || Binary code: 0001000101
+Palabra: ac || Repeticiones: 2 || Binary code: 0001000110
+Palabra: luz || Repeticiones: 2 || Binary code: 0001000111
+Palabra: sol || Repeticiones: 2 || Binary code: 0001001000
+Palabra: infinita || Repeticiones: 2 || Binary code: 0001001001
+Palabra: sabiduria || Repeticiones: 2 || Binary code: 0001001010
+Palabra: lugar || Repeticiones: 2 || Binary code: 0001001011
+Palabra: poder || Repeticiones: 2 || Binary code: 0001001100
+Palabra: amet || Repeticiones: 2 || Binary code: 0001001101
+Palabra: sit || Repeticiones: 2 || Binary code: 0001001110
+Palabra: estaban || Repeticiones: 2 || Binary code: 0001001111
+Palabra: entre || Repeticiones: 2 || Binary code: 0001010000
+Palabra: cabana || Repeticiones: 2 || Binary code: 0001010001
+Palabra: grandes || Repeticiones: 2 || Binary code: 0001010010
+Palabra: este || Repeticiones: 2 || Binary code: 0001010011
+Palabra: vio || Repeticiones: 2 || Binary code: 0001010100
+Palabra: antiguo || Repeticiones: 2 || Binary code: 0001010101
+Palabra: cruzo || Repeticiones: 2 || Binary code: 0001010110
+Palabra: leyenda || Repeticiones: 2 || Binary code: 0001010111
+Palabra: viento || Repeticiones: 2 || Binary code: 0001011000
+Palabra: sintio || Repeticiones: 2 || Binary code: 0001011001
+Palabra: historias || Repeticiones: 2 || Binary code: 0001011010
+Palabra: hoy || Repeticiones: 2 || Binary code: 0001011011
+Palabra: dirigio || Repeticiones: 2 || Binary code: 0001011100
+Palabra: parecia || Repeticiones: 2 || Binary code: 0001011101
+Palabra: sino || Repeticiones: 2 || Binary code: 0001011110
+Palabra: salio || Repeticiones: 2 || Binary code: 0001011111
+Palabra: piedra || Repeticiones: 2 || Binary code: 0001100000
+Palabra: solo || Repeticiones: 2 || Binary code: 0001100001
+Palabra: corazon || Repeticiones: 2 || Binary code: 0001100010
+Palabra: centro || Repeticiones: 2 || Binary code: 0001100011
+Palabra: llamado || Repeticiones: 2 || Binary code: 0001100100
+Palabra: valle || Repeticiones: 2 || Binary code: 0001100101
+Palabra: determinacion || Repeticiones: 2 || Binary code: 0001100110
+Palabra: ante || Repeticiones: 2 || Binary code: 0001100111
+Palabra: suave || Repeticiones: 2 || Binary code: 0001101000
+Palabra: medida || Repeticiones: 2 || Binary code: 0001101001
+Palabra: mochila || Repeticiones: 2 || Binary code: 0001101010
+Palabra: tras || Repeticiones: 2 || Binary code: 0001101011
+Palabra: sobre || Repeticiones: 2 || Binary code: 0001101100
+Palabra: feugiat || Repeticiones: 1 || Binary code: 0001101101
+Palabra: luctus || Repeticiones: 1 || Binary code: 0001101110
+Palabra: felis || Repeticiones: 1 || Binary code: 0001101111
+Palabra: tincidunt || Repeticiones: 1 || Binary code: 0001110000
+Palabra: ligula || Repeticiones: 1 || Binary code: 0001110001
+Palabra: vehicula || Repeticiones: 1 || Binary code: 0001110010
+Palabra: praesent || Repeticiones: 1 || Binary code: 0001110011
+Palabra: eget || Repeticiones: 1 || Binary code: 0001110100
+Palabra: finibus || Repeticiones: 1 || Binary code: 0001110101
+Palabra: et || Repeticiones: 1 || Binary code: 0001110110
+Palabra: leo || Repeticiones: 1 || Binary code: 0001110111
+Palabra: ornare || Repeticiones: 1 || Binary code: 0001111000
+Palabra: vivamus || Repeticiones: 1 || Binary code: 0001111001
+Palabra: volutpat || Repeticiones: 1 || Binary code: 0001111010
+Palabra: erat || Repeticiones: 1 || Binary code: 0001111011
+Palabra: hendrerit || Repeticiones: 1 || Binary code: 0001111100
+Palabra: quis || Repeticiones: 1 || Binary code: 0001111101
+Palabra: mauris || Repeticiones: 1 || Binary code: 0001111110
+Palabra: ullamcorper || Repeticiones: 1 || Binary code: 0001111111
+Palabra: at || Repeticiones: 1 || Binary code: 0010000000
+Palabra: enim || Repeticiones: 1 || Binary code: 0010000001
+Palabra: faucibus || Repeticiones: 1 || Binary code: 0010000010
+Palabra: ut || Repeticiones: 1 || Binary code: 0010000011
+Palabra: convallis || Repeticiones: 1 || Binary code: 0010000100
+Palabra: in || Repeticiones: 1 || Binary code: 0010000101
+Palabra: lobortis || Repeticiones: 1 || Binary code: 0010000110
+Palabra: pretium || Repeticiones: 1 || Binary code: 0010000111
+Palabra: urna || Repeticiones: 1 || Binary code: 0010001000
+Palabra: nullam || Repeticiones: 1 || Binary code: 0010001001
+Palabra: facilisis || Repeticiones: 1 || Binary code: 0010001010
+Palabra: eu || Repeticiones: 1 || Binary code: 0010001011
+Palabra: massa || Repeticiones: 1 || Binary code: 0010001100
+Palabra: congue || Repeticiones: 1 || Binary code: 0010001101
+Palabra: lacinia || Repeticiones: 1 || Binary code: 0010001110
+Palabra: pellentesque || Repeticiones: 1 || Binary code: 0010001111
+Palabra: elit || Repeticiones: 1 || Binary code: 0010010000
+Palabra: adipiscing || Repeticiones: 1 || Binary code: 0010010001
+Palabra: consectetur || Repeticiones: 1 || Binary code: 0010010010
+Palabra: dolor || Repeticiones: 1 || Binary code: 0010010011
+Palabra: ipsum || Repeticiones: 1 || Binary code: 0010010100
+Palabra: lorem || Repeticiones: 1 || Binary code: 0010010101
+Palabra: generaciones || Repeticiones: 1 || Binary code: 0010010110
+Palabra: futuras || Repeticiones: 1 || Binary code: 0010010111
+Palabra: guia || Repeticiones: 1 || Binary code: 0010011000
+Palabra: adquirido || Repeticiones: 1 || Binary code: 0010011001
+Palabra: conocimiento || Repeticiones: 1 || Binary code: 0010011010
+Palabra: exito || Repeticiones: 1 || Binary code: 0010011011
+Palabra: sido || Repeticiones: 1 || Binary code: 0010011100
+Palabra: aventura || Repeticiones: 1 || Binary code: 0010011101
+Palabra: sabiendo || Repeticiones: 1 || Binary code: 0010011110
+Palabra: casa || Repeticiones: 1 || Binary code: 0010011111
+Palabra: vuelta || Repeticiones: 1 || Binary code: 0010100000
+Palabra: nuevamente || Repeticiones: 1 || Binary code: 0010100001
+Palabra: monto || Repeticiones: 1 || Binary code: 0010100010
+Palabra: esperanza || Repeticiones: 1 || Binary code: 0010100011
+Palabra: gratitud || Repeticiones: 1 || Binary code: 0010100100
+Palabra: largo || Repeticiones: 1 || Binary code: 0010100101
+Palabra: regreso || Repeticiones: 1 || Binary code: 0010100110
+Palabra: guardo || Repeticiones: 1 || Binary code: 0010100111
+Palabra: mundo || Repeticiones: 1 || Binary code: 0010101000
+Palabra: descubrimiento || Repeticiones: 1 || Binary code: 0010101001
+Palabra: compartir || Repeticiones: 1 || Binary code: 0010101010
+Palabra: renovada || Repeticiones: 1 || Binary code: 0010101011
+Palabra: venido || Repeticiones: 1 || Binary code: 0010101100
+Palabra: habian || Repeticiones: 1 || Binary code: 0010101101
+Palabra: aquellos || Repeticiones: 1 || Binary code: 0010101110
+Palabra: conexion || Repeticiones: 1 || Binary code: 0010101111
+Palabra: profunda || Repeticiones: 1 || Binary code: 0010110000
+Palabra: cosas || Repeticiones: 1 || Binary code: 0010110001
+Palabra: lograr || Repeticiones: 1 || Binary code: 0010110010
+Palabra: personas || Repeticiones: 1 || Binary code: 0010110011
+Palabra: unir || Repeticiones: 1 || Binary code: 0010110100
+Palabra: capacidad || Repeticiones: 1 || Binary code: 0010110101
+Palabra: residia || Repeticiones: 1 || Binary code: 0010110110
+Palabra: verdadero || Repeticiones: 1 || Binary code: 0010110111
+Palabra: comprendio || Repeticiones: 1 || Binary code: 0010111000
+Palabra: comun || Repeticiones: 1 || Binary code: 0010111001
+Palabra: proposito || Repeticiones: 1 || Binary code: 0010111010
+Palabra: trabajando || Repeticiones: 1 || Binary code: 0010111011
+Palabra: constructores || Repeticiones: 1 || Binary code: 0010111100
+Palabra: mente || Repeticiones: 1 || Binary code: 0010111101
+Palabra: inundo || Repeticiones: 1 || Binary code: 0010111110
+Palabra: vision || Repeticiones: 1 || Binary code: 0010111111
+Palabra: ese || Repeticiones: 1 || Binary code: 0011000000
+Palabra: tomo || Repeticiones: 1 || Binary code: 0011000001
+Palabra: delicadeza || Repeticiones: 1 || Binary code: 0011000010
+Palabra: extendio || Repeticiones: 1 || Binary code: 0011000011
+Palabra: emanaba || Repeticiones: 1 || Binary code: 0011000100
+Palabra: energia || Repeticiones: 1 || Binary code: 0011000101
+Palabra: sintiendo || Repeticiones: 1 || Binary code: 0011000110
+Palabra: lentamente || Repeticiones: 1 || Binary code: 0011000111
+Palabra: acerco || Repeticiones: 1 || Binary code: 0011001000
+Palabra: constante || Repeticiones: 1 || Binary code: 0011001001
+Palabra: brillando || Repeticiones: 1 || Binary code: 0011001010
+Palabra: imaginado || Repeticiones: 1 || Binary code: 0011001011
+Palabra: hermoso || Repeticiones: 1 || Binary code: 0011001100
+Palabra: descansaba || Repeticiones: 1 || Binary code: 0011001101
+Palabra: pedestal || Repeticiones: 1 || Binary code: 0011001110
+Palabra: principal || Repeticiones: 1 || Binary code: 0011001111
+Palabra: sala || Repeticiones: 1 || Binary code: 0011010000
+Palabra: rituales || Repeticiones: 1 || Binary code: 0011010001
+Palabra: ceremonias || Repeticiones: 1 || Binary code: 0011010010
+Palabra: epicas || Repeticiones: 1 || Binary code: 0011010011
+Palabra: batallas || Repeticiones: 1 || Binary code: 0011010100
+Palabra: antiguas || Repeticiones: 1 || Binary code: 0011010101
+Palabra: narraban || Repeticiones: 1 || Binary code: 0011010110
+Palabra: grabados || Repeticiones: 1 || Binary code: 0011010111
+Palabra: inscripciones || Repeticiones: 1 || Binary code: 0011011000
+Palabra: cubiertas || Repeticiones: 1 || Binary code: 0011011001
+Palabra: alrededor || Repeticiones: 1 || Binary code: 0011011010
+Palabra: detalle || Repeticiones: 1 || Binary code: 0011011011
+Palabra: observando || Repeticiones: 1 || Binary code: 0011011100
+Palabra: cautela || Repeticiones: 1 || Binary code: 0011011101
+Palabra: avanzo || Repeticiones: 1 || Binary code: 0011011110
+Palabra: epoca || Repeticiones: 1 || Binary code: 0011011111
+Palabra: otra || Repeticiones: 1 || Binary code: 0011100000
+Palabra: venir || Repeticiones: 1 || Binary code: 0011100001
+Palabra: impregnado || Repeticiones: 1 || Binary code: 0011100010
+Palabra: tranquilo || Repeticiones: 1 || Binary code: 0011100011
+Palabra: fresco || Repeticiones: 1 || Binary code: 0011100100
+Palabra: ambiente || Repeticiones: 1 || Binary code: 0011100101
+Palabra: grietas || Repeticiones: 1 || Binary code: 0011100110
+Palabra: filtraban || Repeticiones: 1 || Binary code: 0011100111
+Palabra: rayos || Repeticiones: 1 || Binary code: 0011101000
+Palabra: iluminado || Repeticiones: 1 || Binary code: 0011101001
+Palabra: penumbra || Repeticiones: 1 || Binary code: 0011101010
+Palabra: interior || Repeticiones: 1 || Binary code: 0011101011
+Palabra: umbral || Repeticiones: 1 || Binary code: 0011101100
+Palabra: hondo || Repeticiones: 1 || Binary code: 0011101101
+Palabra: respiro || Repeticiones: 1 || Binary code: 0011101110
+Palabra: pasar || Repeticiones: 1 || Binary code: 0011101111
+Palabra: invitandolo || Repeticiones: 1 || Binary code: 0011110000
+Palabra: como || Repeticiones: 1 || Binary code: 0011110001
+Palabra: entreabiertas || Repeticiones: 1 || Binary code: 0011110010
+Palabra: tallada || Repeticiones: 1 || Binary code: 0011110011
+Palabra: madera || Repeticiones: 1 || Binary code: 0011110100
+Palabra: puertas || Repeticiones: 1 || Binary code: 0011110101
+Palabra: entrada || Repeticiones: 1 || Binary code: 0011110110
+Palabra: firme || Repeticiones: 1 || Binary code: 0011110111
+Palabra: misterio || Repeticiones: 1 || Binary code: 0011111000
+Palabra: historia || Repeticiones: 1 || Binary code: 0011111001
+Palabra: cargado || Repeticiones: 1 || Binary code: 0011111010
+Palabra: sagrado || Repeticiones: 1 || Binary code: 0011111011
+Palabra: sitio || Repeticiones: 1 || Binary code: 0011111100
+Palabra: entrar || Repeticiones: 1 || Binary code: 0011111101
+Palabra: punto || Repeticiones: 1 || Binary code: 0011111110
+Palabra: sabia || Repeticiones: 1 || Binary code: 0011111111
+Palabra: contemplar || Repeticiones: 1 || Binary code: 0100000000
+Palabra: reverencia || Repeticiones: 1 || Binary code: 0100000001
+Palabra: asombro || Repeticiones: 1 || Binary code: 0100000010
+Palabra: mezcla || Repeticiones: 1 || Binary code: 0100000011
+Palabra: dignidad || Repeticiones: 1 || Binary code: 0100000100
+Palabra: tiempo || Repeticiones: 1 || Binary code: 0100000101
+Palabra: resistir || Repeticiones: 1 || Binary code: 0100000110
+Palabra: musgo || Repeticiones: 1 || Binary code: 0100000111
+Palabra: cubierta || Repeticiones: 1 || Binary code: 0100001000
+Palabra: hecha || Repeticiones: 1 || Binary code: 0100001001
+Palabra: construccion || Repeticiones: 1 || Binary code: 0100001010
+Palabra: alzaba || Repeticiones: 1 || Binary code: 0100001011
+Palabra: mistica || Repeticiones: 1 || Binary code: 0100001100
+Palabra: aura || Repeticiones: 1 || Binary code: 0100001101
+Palabra: envuelto || Repeticiones: 1 || Binary code: 0100001110
+Palabra: oculto || Repeticiones: 1 || Binary code: 0100001111
+Palabra: vasto || Repeticiones: 1 || Binary code: 0100010000
+Palabra: extendia || Repeticiones: 1 || Binary code: 0100010001
+Palabra: ojos || Repeticiones: 1 || Binary code: 0100010010
+Palabra: cima || Repeticiones: 1 || Binary code: 0100010011
+Palabra: llego || Repeticiones: 1 || Binary code: 0100010100
+Palabra: escalada || Repeticiones: 1 || Binary code: 0100010101
+Palabra: ardua || Repeticiones: 1 || Binary code: 0100010110
+Palabra: finalmente || Repeticiones: 1 || Binary code: 0100010111
+Palabra: conocido || Repeticiones: 1 || Binary code: 0100011000
+Palabra: alla || Repeticiones: 1 || Binary code: 0100011001
+Palabra: respuestas || Repeticiones: 1 || Binary code: 0100011010
+Palabra: buscar || Repeticiones: 1 || Binary code: 0100011011
+Palabra: limites || Repeticiones: 1 || Binary code: 0100011100
+Palabra: desafiar || Repeticiones: 1 || Binary code: 0100011101
+Palabra: adelante || Repeticiones: 1 || Binary code: 0100011110
+Palabra: seguir || Repeticiones: 1 || Binary code: 0100011111
+Palabra: impulsaba || Repeticiones: 1 || Binary code: 0100100000
+Palabra: espiritu || Repeticiones: 1 || Binary code: 0100100001
+Palabra: detenia || Repeticiones: 1 || Binary code: 0100100010
+Palabra: esto || Repeticiones: 1 || Binary code: 0100100011
+Palabra: nada || Repeticiones: 1 || Binary code: 0100100100
+Palabra: embargo || Repeticiones: 1 || Binary code: 0100100101
+Palabra: sin || Repeticiones: 1 || Binary code: 0100100110
+Palabra: intensidad || Repeticiones: 1 || Binary code: 0100100111
+Palabra: mayor || Repeticiones: 1 || Binary code: 0100101000
+Palabra: soplaba || Repeticiones: 1 || Binary code: 0100101001
+Palabra: alcance || Repeticiones: 1 || Binary code: 0100101010
+Palabra: parecian || Repeticiones: 1 || Binary code: 0100101011
+Palabra: nubes || Repeticiones: 1 || Binary code: 0100101100
+Palabra: frio || Repeticiones: 1 || Binary code: 0100101101
+Palabra: aire || Repeticiones: 1 || Binary code: 0100101110
+Palabra: escasa || Repeticiones: 1 || Binary code: 0100101111
+Palabra: vegetacion || Repeticiones: 1 || Binary code: 0100110000
+Palabra: ascendia || Repeticiones: 1 || Binary code: 0100110001
+Palabra: verdad || Repeticiones: 1 || Binary code: 0100110010
+Palabra: descubrir || Repeticiones: 1 || Binary code: 0100110011
+Palabra: decidido || Repeticiones: 1 || Binary code: 0100110100
+Palabra: mito || Repeticiones: 1 || Binary code: 0100110101
+Palabra: consideraban || Repeticiones: 1 || Binary code: 0100110110
+Palabra: muchos || Repeticiones: 1 || Binary code: 0100110111
+Palabra: aunque || Repeticiones: 1 || Binary code: 0100111000
+Palabra: nino || Repeticiones: 1 || Binary code: 0100111001
+Palabra: esta || Repeticiones: 1 || Binary code: 0100111010
+Palabra: hablar || Repeticiones: 1 || Binary code: 0100111011
+Palabra: oido || Repeticiones: 1 || Binary code: 0100111100
+Palabra: poseyera || Repeticiones: 1 || Binary code: 0100111101
+Palabra: conceder || Repeticiones: 1 || Binary code: 0100111110
+Palabra: tenia || Repeticiones: 1 || Binary code: 0100111111
+Palabra: creia || Repeticiones: 1 || Binary code: 0101000000
+Palabra: segun || Repeticiones: 1 || Binary code: 0101000001
+Palabra: : || Repeticiones: 1 || Binary code: 0101000010
+Palabra: invaluable || Repeticiones: 1 || Binary code: 0101000011
+Palabra: tesoro || Repeticiones: 1 || Binary code: 0101000100
+Palabra: albergaba || Repeticiones: 1 || Binary code: 0101000101
+Palabra: siglos || Repeticiones: 1 || Binary code: 0101000110
+Palabra: hace || Repeticiones: 1 || Binary code: 0101000111
+Palabra: perdida || Repeticiones: 1 || Binary code: 0101001000
+Palabra: civilizacion || Repeticiones: 1 || Binary code: 0101001001
+Palabra: construido || Repeticiones: 1 || Binary code: 0101001010
+Palabra: encontraba || Repeticiones: 1 || Binary code: 0101001011
+Palabra: alto || Repeticiones: 1 || Binary code: 0101001100
+Palabra: decia || Repeticiones: 1 || Binary code: 0101001101
+Palabra: objetivo || Repeticiones: 1 || Binary code: 0101001110
+Palabra: cerca || Repeticiones: 1 || Binary code: 0101001111
+Palabra: tan || Repeticiones: 1 || Binary code: 0101010000
+Palabra: estar || Repeticiones: 1 || Binary code: 0101010001
+Palabra: emocion || Repeticiones: 1 || Binary code: 0101010010
+Palabra: fisico || Repeticiones: 1 || Binary code: 0101010011
+Palabra: esfuerzo || Repeticiones: 1 || Binary code: 0101010100
+Palabra: fuerza || Repeticiones: 1 || Binary code: 0101010101
+Palabra: latia || Repeticiones: 1 || Binary code: 0101010110
+Palabra: obstaculo || Repeticiones: 1 || Binary code: 0101010111
+Palabra: superar || Repeticiones: 1 || Binary code: 0101011000
+Palabra: logro || Repeticiones: 1 || Binary code: 0101011001
+Palabra: experiencia || Repeticiones: 1 || Binary code: 0101011010
+Palabra: avance || Repeticiones: 1 || Binary code: 0101011011
+Palabra: dificultaban || Repeticiones: 1 || Binary code: 0101011100
+Palabra: penascos || Repeticiones: 1 || Binary code: 0101011101
+Palabra: rocas || Repeticiones: 1 || Binary code: 0101011110
+Palabra: pie || Repeticiones: 1 || Binary code: 0101011111
+Palabra: continuo || Repeticiones: 1 || Binary code: 0101100000
+Palabra: seguro || Repeticiones: 1 || Binary code: 0101100001
+Palabra: claro || Repeticiones: 1 || Binary code: 0101100010
+Palabra: asegurarlo || Repeticiones: 1 || Binary code: 0101100011
+Palabra: desmonto || Repeticiones: 1 || Binary code: 0101100100
+Palabra: desafiante || Repeticiones: 1 || Binary code: 0101100101
+Palabra: empinado || Repeticiones: 1 || Binary code: 0101100110
+Palabra: volvia || Repeticiones: 1 || Binary code: 0101100111
+Palabra: ascenso || Repeticiones: 1 || Binary code: 0101101000
+Palabra: alli || Repeticiones: 1 || Binary code: 0101101001
+Palabra: base || Repeticiones: 1 || Binary code: 0101101010
+Palabra: llegaron || Repeticiones: 1 || Binary code: 0101101011
+Palabra: varias || Repeticiones: 1 || Binary code: 0101101100
+Palabra: despues || Repeticiones: 1 || Binary code: 0101101101
+Palabra: posible || Repeticiones: 1 || Binary code: 0101101110
+Palabra: rastro || Repeticiones: 1 || Binary code: 0101101111
+Palabra: menor || Repeticiones: 1 || Binary code: 0101110000
+Palabra: dejar || Repeticiones: 1 || Binary code: 0101110001
+Palabra: procuraba || Repeticiones: 1 || Binary code: 0101110010
+Palabra: siempre || Repeticiones: 1 || Binary code: 0101110011
+Palabra: rodeaba || Repeticiones: 1 || Binary code: 0101110100
+Palabra: entorno || Repeticiones: 1 || Binary code: 0101110101
+Palabra: respeto || Repeticiones: 1 || Binary code: 0101110110
+Palabra: profundo || Repeticiones: 1 || Binary code: 0101110111
+Palabra: sentia || Repeticiones: 1 || Binary code: 0101111000
+Palabra: naturaleza || Repeticiones: 1 || Binary code: 0101111001
+Palabra: diversidad || Repeticiones: 1 || Binary code: 0101111010
+Palabra: belleza || Repeticiones: 1 || Binary code: 0101111011
+Palabra: recordatorio || Repeticiones: 1 || Binary code: 0101111100
+Palabra: encuentro || Repeticiones: 1 || Binary code: 0101111101
+Palabra: alegres || Repeticiones: 1 || Binary code: 0101111110
+Palabra: melodias || Repeticiones: 1 || Binary code: 0101111111
+Palabra: cantaban || Repeticiones: 1 || Binary code: 0110000000
+Palabra: brillantes || Repeticiones: 1 || Binary code: 0110000001
+Palabra: colores || Repeticiones: 1 || Binary code: 0110000010
+Palabra: aves || Repeticiones: 1 || Binary code: 0110000011
+Palabra: ramas || Repeticiones: 1 || Binary code: 0110000100
+Palabra: correteando || Repeticiones: 1 || Binary code: 0110000101
+Palabra: ardillas || Repeticiones: 1 || Binary code: 0110000110
+Palabra: tranquilamente || Repeticiones: 1 || Binary code: 0110000111
+Palabra: pastando || Repeticiones: 1 || Binary code: 0110001000
+Palabra: ciervos || Repeticiones: 1 || Binary code: 0110001001
+Palabra: bosque || Repeticiones: 1 || Binary code: 0110001010
+Palabra: habitantes || Repeticiones: 1 || Binary code: 0110001011
+Palabra: varios || Repeticiones: 1 || Binary code: 0110001100
+Palabra: trayecto || Repeticiones: 1 || Binary code: 0110001101
+Palabra: durante || Repeticiones: 1 || Binary code: 0110001110
+Palabra: susurraban || Repeticiones: 1 || Binary code: 0110001111
+Palabra: altos || Repeticiones: 1 || Binary code: 0110010000
+Palabra: arboles || Repeticiones: 1 || Binary code: 0110010001
+Palabra: oscuros || Repeticiones: 1 || Binary code: 0110010010
+Palabra: densos || Repeticiones: 1 || Binary code: 0110010011
+Palabra: bosques || Repeticiones: 1 || Binary code: 0110010100
+Palabra: dieron || Repeticiones: 1 || Binary code: 0110010101
+Palabra: onduladas || Repeticiones: 1 || Binary code: 0110010110
+Palabra: colinas || Repeticiones: 1 || Binary code: 0110010111
+Palabra: verdes || Repeticiones: 1 || Binary code: 0110011000
+Palabra: cambiaba || Repeticiones: 1 || Binary code: 0110011001
+Palabra: paisaje || Repeticiones: 1 || Binary code: 0110011010
+Palabra: avanzaban || Repeticiones: 1 || Binary code: 0110011011
+Palabra: enigmas || Repeticiones: 1 || Binary code: 0110011100
+Palabra: desentranando || Repeticiones: 1 || Binary code: 0110011101
+Palabra: secretos || Repeticiones: 1 || Binary code: 0110011110
+Palabra: conociendo || Repeticiones: 1 || Binary code: 0110011111
+Palabra: region || Repeticiones: 1 || Binary code: 0110100000
+Palabra: rincon || Repeticiones: 1 || Binary code: 0110100001
+Palabra: explorando || Repeticiones: 1 || Binary code: 0110100010
+Palabra: anos || Repeticiones: 1 || Binary code: 0110100011
+Palabra: pasado || Repeticiones: 1 || Binary code: 0110100100
+Palabra: bien || Repeticiones: 1 || Binary code: 0110100101
+Palabra: conocia || Repeticiones: 1 || Binary code: 0110100110
+Palabra: peligroso || Repeticiones: 1 || Binary code: 0110100111
+Palabra: menudo || Repeticiones: 1 || Binary code: 0110101000
+Palabra: sinuoso || Repeticiones: 1 || Binary code: 0110101001
+Palabra: conducia || Repeticiones: 1 || Binary code: 0110101010
+Palabra: sendero || Repeticiones: 1 || Binary code: 0110101011
+Palabra: majestuosas || Repeticiones: 1 || Binary code: 0110101100
+Palabra: alzaban || Repeticiones: 1 || Binary code: 0110101101
+Palabra: norte || Repeticiones: 1 || Binary code: 0110101110
+Palabra: montarlo || Repeticiones: 1 || Binary code: 0110101111
+Palabra: manzana || Repeticiones: 1 || Binary code: 0110110000
+Palabra: ofrecio || Repeticiones: 1 || Binary code: 0110110001
+Palabra: crin || Repeticiones: 1 || Binary code: 0110110010
+Palabra: acaricio || Repeticiones: 1 || Binary code: 0110110011
+Palabra: verlo || Repeticiones: 1 || Binary code: 0110110100
+Palabra: suavemente || Repeticiones: 1 || Binary code: 0110110101
+Palabra: relincho || Repeticiones: 1 || Binary code: 0110110110
+Palabra: inteligente || Repeticiones: 1 || Binary code: 0110110111
+Palabra: mirada || Repeticiones: 1 || Binary code: 0110111000
+Palabra: negro || Repeticiones: 1 || Binary code: 0110111001
+Palabra: pelaje || Repeticiones: 1 || Binary code: 0110111010
+Palabra: animal || Repeticiones: 1 || Binary code: 0110111011
+Palabra: noble || Repeticiones: 1 || Binary code: 0110111100
+Palabra: caballo || Repeticiones: 1 || Binary code: 0110111101
+Palabra: companero || Repeticiones: 1 || Binary code: 0110111110
+Palabra: fiel || Repeticiones: 1 || Binary code: 0110111111
+Palabra: esperaba || Repeticiones: 1 || Binary code: 0111000000
+Palabra: establo || Repeticiones: 1 || Binary code: 0111000001
+Palabra: descubrimientos || Repeticiones: 1 || Binary code: 0111000010
+Palabra: anotar || Repeticiones: 1 || Binary code: 0111000011
+Palabra: cuaderno || Repeticiones: 1 || Binary code: 0111000100
+Palabra: pequeno || Repeticiones: 1 || Binary code: 0111000101
+Palabra: mapas || Repeticiones: 1 || Binary code: 0111000110
+Palabra: brujula || Repeticiones: 1 || Binary code: 0111000111
+Palabra: provisiones || Repeticiones: 1 || Binary code: 0111001000
+Palabra: guardado || Repeticiones: 1 || Binary code: 0111001001
+Palabra: recogio || Repeticiones: 1 || Binary code: 0111001010
+Palabra: hombros || Repeticiones: 1 || Binary code: 0111001011
+Palabra: capa || Repeticiones: 1 || Binary code: 0111001100
+Palabra: aseguro || Repeticiones: 1 || Binary code: 0111001101
+Palabra: comodas || Repeticiones: 1 || Binary code: 0111001110
+Palabra: gastadas || Repeticiones: 1 || Binary code: 0111001111
+Palabra: botas || Repeticiones: 1 || Binary code: 0111010000
+Palabra: unas || Repeticiones: 1 || Binary code: 0111010001
+Palabra: resistente || Repeticiones: 1 || Binary code: 0111010010
+Palabra: cuero || Repeticiones: 1 || Binary code: 0111010011
+Palabra: pantalones || Repeticiones: 1 || Binary code: 0111010100
+Palabra: lino || Repeticiones: 1 || Binary code: 0111010101
+Palabra: camisa || Repeticiones: 1 || Binary code: 0111010110
+Palabra: consistia || Repeticiones: 1 || Binary code: 0111010111
+Palabra: atuendo || Repeticiones: 1 || Binary code: 0111011000
+Palabra: prepararse || Repeticiones: 1 || Binary code: 0111011001
+Palabra: comenzo || Repeticiones: 1 || Binary code: 0111011010
+Palabra: cama || Repeticiones: 1 || Binary code: 0111011011
+Palabra: levanto || Repeticiones: 1 || Binary code: 0111011100
+Palabra: agilidad || Repeticiones: 1 || Binary code: 0111011101
+Palabra: leyendas || Repeticiones: 1 || Binary code: 0111011110
+Palabra: misterios || Repeticiones: 1 || Binary code: 0111011111
+Palabra: expedicion || Repeticiones: 1 || Binary code: 0111100000
+Palabra: emprenderia || Repeticiones: 1 || Binary code: 0111100001
+Palabra: ; || Repeticiones: 1 || Binary code: 0111100010
+Palabra: cualquiera || Repeticiones: 1 || Binary code: 0111100011
+Palabra: labios || Repeticiones: 1 || Binary code: 0111100100
+Palabra: dibujo || Repeticiones: 1 || Binary code: 0111100101
+Palabra: sonrisa || Repeticiones: 1 || Binary code: 0111100110
+Palabra: rostro || Repeticiones: 1 || Binary code: 0111100111
+Palabra: ilumino || Repeticiones: 1 || Binary code: 0111101000
+Palabra: rayo || Repeticiones: 1 || Binary code: 0111101001
+Palabra: primer || Repeticiones: 1 || Binary code: 0111101010
+Palabra: jornada || Repeticiones: 1 || Binary code: 0111101011
+Palabra: iniciar || Repeticiones: 1 || Binary code: 0111101100
+Palabra: ultimo || Repeticiones: 1 || Binary code: 0111101101
+Palabra: disfrutando || Repeticiones: 1 || Binary code: 0111101110
+Palabra: perezosamente || Repeticiones: 1 || Binary code: 0111101111
+Palabra: estiro || Repeticiones: 1 || Binary code: 0111110000
+Palabra: cercanos || Repeticiones: 1 || Binary code: 0111110001
+Palabra: florecian || Repeticiones: 1 || Binary code: 0111110010
+Palabra: silvestres || Repeticiones: 1 || Binary code: 0111110011
+Palabra: flores || Repeticiones: 1 || Binary code: 0111110100
+Palabra: aroma || Repeticiones: 1 || Binary code: 0111110101
+Palabra: consigo || Repeticiones: 1 || Binary code: 0111110110
+Palabra: traia || Repeticiones: 1 || Binary code: 0111110111
+Palabra: pequena || Repeticiones: 1 || Binary code: 0111111000
+Palabra: abierta || Repeticiones: 1 || Binary code: 0111111001
+Palabra: ventana || Repeticiones: 1 || Binary code: 0111111010
+Palabra: entraba || Repeticiones: 1 || Binary code: 0111111011
+Palabra: brisa || Repeticiones: 1 || Binary code: 0111111100
+Palabra: emociones || Repeticiones: 1 || Binary code: 0111111101
+Palabra: espera || Repeticiones: 1 || Binary code: 0111111110
+Palabra: sabe || Repeticiones: 1 || Binary code: 0111111111
+Palabra: propio || Repeticiones: 1 || Binary code: 1000000000
+Palabra: entusiasmo || Repeticiones: 1 || Binary code: 1000000001
+Palabra: desperto || Repeticiones: 1 || Binary code: 1000000010
+Palabra: joven || Repeticiones: 1 || Binary code: 1000000011
+Palabra: horizonte || Repeticiones: 1 || Binary code: 1000000100
+Palabra: asomaba || Repeticiones: 1 || Binary code: 1000000101
+Palabra: apenas || Repeticiones: 1 || Binary code: 1000000110
+Palabra: cuando || Repeticiones: 1 || Binary code: 1000000111
+Palabra: primavera || Repeticiones: 1 || Binary code: 1000001000
+Palabra: fresca || Repeticiones: 1 || Binary code: 1000001001
+Palabra: manana || Repeticiones: 1 || Binary code: 1000001010
+Cabeza (palabra con mas repeticiones):  
+Last (palabra con menos repeticiones): manana
+Palabras diferentes (tamano de la lista): 523
+============================================================
+------------------Hojas Arbol de Acceso-----------------
+  || Binary Code: 0000000000
+, || Binary Code: 0000000001
+. || Binary Code: 0000000010
+de || Binary Code: 0000000011
+y || Binary Code: 0000000100
+el || Binary Code: 0000000101
+
+ || Binary Code: 0000000110
+su || Binary Code: 0000000111
+que || Binary Code: 0000001000
+la || Binary Code: 0000001001
+a || Binary Code: 0000001010
+un || Binary Code: 0000001011
+en || Binary Code: 0000001100
+las || Binary Code: 0000001101
+se || Binary Code: 0000001110
+marcos || Binary Code: 0000001111
+con || Binary Code: 0000010000
+una || Binary Code: 0000010001
+del || Binary Code: 0000010010
+lo || Binary Code: 0000010011
+los || Binary Code: 0000010100
+por || Binary Code: 0000010101
+templo || Binary Code: 0000010110
+montanas || Binary Code: 0000010111
+mas || Binary Code: 0000011000
+sus || Binary Code: 0000011001
+habia || Binary Code: 0000011010
+hacia || Binary Code: 0000011011
+cristal || Binary Code: 0000011100
+pero || Binary Code: 0000011101
+era || Binary Code: 0000011110
+paso || Binary Code: 0000011111
+al || Binary Code: 0000100000
+cada || Binary Code: 0000100001
+trueno || Binary Code: 0000100010
+estaba || Binary Code: 0000100011
+antes || Binary Code: 0000100100
+azules || Binary Code: 0000100101
+antiguos || Binary Code: 0000100110
+lleno || Binary Code: 0000100111
+aventurero || Binary Code: 0000101000
+sed || Binary Code: 0000101001
+camino || Binary Code: 0000101010
+juntos || Binary Code: 0000101011
+seria || Binary Code: 0000101100
+para || Binary Code: 0000101101
+no || Binary Code: 0000101110
+donde || Binary Code: 0000101111
+desde || Binary Code: 0000110000
+calma || Binary Code: 0000110001
+momento || Binary Code: 0000110010
+viaje || Binary Code: 0000110011
+horas || Binary Code: 0000110100
+tortor || Binary Code: 0000110101
+fringilla || Binary Code: 0000110110
+mano || Binary Code: 0000110111
+dia || Binary Code: 0000111000
+le || Binary Code: 0000111001
+campos || Binary Code: 0000111010
+placerat || Binary Code: 0000111011
+velit || Binary Code: 0000111100
+emprendieron || Binary Code: 0000111101
+venenatis || Binary Code: 0000111110
+nibh || Binary Code: 0000111111
+aliquam || Binary Code: 0001000000
+fusce || Binary Code: 0001000001
+justo || Binary Code: 0001000010
+paredes || Binary Code: 0001000011
+quien || Binary Code: 0001000100
+est || Binary Code: 0001000101
+ac || Binary Code: 0001000110
+luz || Binary Code: 0001000111
+sol || Binary Code: 0001001000
+infinita || Binary Code: 0001001001
+sabiduria || Binary Code: 0001001010
+lugar || Binary Code: 0001001011
+poder || Binary Code: 0001001100
+amet || Binary Code: 0001001101
+sit || Binary Code: 0001001110
+estaban || Binary Code: 0001001111
+entre || Binary Code: 0001010000
+cabana || Binary Code: 0001010001
+grandes || Binary Code: 0001010010
+este || Binary Code: 0001010011
+vio || Binary Code: 0001010100
+antiguo || Binary Code: 0001010101
+cruzo || Binary Code: 0001010110
+leyenda || Binary Code: 0001010111
+viento || Binary Code: 0001011000
+sintio || Binary Code: 0001011001
+historias || Binary Code: 0001011010
+hoy || Binary Code: 0001011011
+dirigio || Binary Code: 0001011100
+parecia || Binary Code: 0001011101
+sino || Binary Code: 0001011110
+salio || Binary Code: 0001011111
+piedra || Binary Code: 0001100000
+solo || Binary Code: 0001100001
+corazon || Binary Code: 0001100010
+centro || Binary Code: 0001100011
+llamado || Binary Code: 0001100100
+valle || Binary Code: 0001100101
+determinacion || Binary Code: 0001100110
+ante || Binary Code: 0001100111
+suave || Binary Code: 0001101000
+medida || Binary Code: 0001101001
+mochila || Binary Code: 0001101010
+tras || Binary Code: 0001101011
+sobre || Binary Code: 0001101100
+feugiat || Binary Code: 0001101101
+luctus || Binary Code: 0001101110
+felis || Binary Code: 0001101111
+tincidunt || Binary Code: 0001110000
+ligula || Binary Code: 0001110001
+vehicula || Binary Code: 0001110010
+praesent || Binary Code: 0001110011
+eget || Binary Code: 0001110100
+finibus || Binary Code: 0001110101
+et || Binary Code: 0001110110
+leo || Binary Code: 0001110111
+ornare || Binary Code: 0001111000
+vivamus || Binary Code: 0001111001
+volutpat || Binary Code: 0001111010
+erat || Binary Code: 0001111011
+hendrerit || Binary Code: 0001111100
+quis || Binary Code: 0001111101
+mauris || Binary Code: 0001111110
+ullamcorper || Binary Code: 0001111111
+at || Binary Code: 0010000000
+enim || Binary Code: 0010000001
+faucibus || Binary Code: 0010000010
+ut || Binary Code: 0010000011
+convallis || Binary Code: 0010000100
+in || Binary Code: 0010000101
+lobortis || Binary Code: 0010000110
+pretium || Binary Code: 0010000111
+urna || Binary Code: 0010001000
+nullam || Binary Code: 0010001001
+facilisis || Binary Code: 0010001010
+eu || Binary Code: 0010001011
+massa || Binary Code: 0010001100
+congue || Binary Code: 0010001101
+lacinia || Binary Code: 0010001110
+pellentesque || Binary Code: 0010001111
+elit || Binary Code: 0010010000
+adipiscing || Binary Code: 0010010001
+consectetur || Binary Code: 0010010010
+dolor || Binary Code: 0010010011
+ipsum || Binary Code: 0010010100
+lorem || Binary Code: 0010010101
+generaciones || Binary Code: 0010010110
+futuras || Binary Code: 0010010111
+guia || Binary Code: 0010011000
+adquirido || Binary Code: 0010011001
+conocimiento || Binary Code: 0010011010
+exito || Binary Code: 0010011011
+sido || Binary Code: 0010011100
+aventura || Binary Code: 0010011101
+sabiendo || Binary Code: 0010011110
+casa || Binary Code: 0010011111
+vuelta || Binary Code: 0010100000
+nuevamente || Binary Code: 0010100001
+monto || Binary Code: 0010100010
+esperanza || Binary Code: 0010100011
+gratitud || Binary Code: 0010100100
+largo || Binary Code: 0010100101
+regreso || Binary Code: 0010100110
+guardo || Binary Code: 0010100111
+mundo || Binary Code: 0010101000
+descubrimiento || Binary Code: 0010101001
+compartir || Binary Code: 0010101010
+renovada || Binary Code: 0010101011
+venido || Binary Code: 0010101100
+habian || Binary Code: 0010101101
+aquellos || Binary Code: 0010101110
+conexion || Binary Code: 0010101111
+profunda || Binary Code: 0010110000
+cosas || Binary Code: 0010110001
+lograr || Binary Code: 0010110010
+personas || Binary Code: 0010110011
+unir || Binary Code: 0010110100
+capacidad || Binary Code: 0010110101
+residia || Binary Code: 0010110110
+verdadero || Binary Code: 0010110111
+comprendio || Binary Code: 0010111000
+comun || Binary Code: 0010111001
+proposito || Binary Code: 0010111010
+trabajando || Binary Code: 0010111011
+constructores || Binary Code: 0010111100
+mente || Binary Code: 0010111101
+inundo || Binary Code: 0010111110
+vision || Binary Code: 0010111111
+ese || Binary Code: 0011000000
+tomo || Binary Code: 0011000001
+delicadeza || Binary Code: 0011000010
+extendio || Binary Code: 0011000011
+emanaba || Binary Code: 0011000100
+energia || Binary Code: 0011000101
+sintiendo || Binary Code: 0011000110
+lentamente || Binary Code: 0011000111
+acerco || Binary Code: 0011001000
+constante || Binary Code: 0011001001
+brillando || Binary Code: 0011001010
+imaginado || Binary Code: 0011001011
+hermoso || Binary Code: 0011001100
+descansaba || Binary Code: 0011001101
+pedestal || Binary Code: 0011001110
+principal || Binary Code: 0011001111
+sala || Binary Code: 0011010000
+rituales || Binary Code: 0011010001
+ceremonias || Binary Code: 0011010010
+epicas || Binary Code: 0011010011
+batallas || Binary Code: 0011010100
+antiguas || Binary Code: 0011010101
+narraban || Binary Code: 0011010110
+grabados || Binary Code: 0011010111
+inscripciones || Binary Code: 0011011000
+cubiertas || Binary Code: 0011011001
+alrededor || Binary Code: 0011011010
+detalle || Binary Code: 0011011011
+observando || Binary Code: 0011011100
+cautela || Binary Code: 0011011101
+avanzo || Binary Code: 0011011110
+epoca || Binary Code: 0011011111
+otra || Binary Code: 0011100000
+venir || Binary Code: 0011100001
+impregnado || Binary Code: 0011100010
+tranquilo || Binary Code: 0011100011
+fresco || Binary Code: 0011100100
+ambiente || Binary Code: 0011100101
+grietas || Binary Code: 0011100110
+filtraban || Binary Code: 0011100111
+rayos || Binary Code: 0011101000
+iluminado || Binary Code: 0011101001
+penumbra || Binary Code: 0011101010
+interior || Binary Code: 0011101011
+umbral || Binary Code: 0011101100
+hondo || Binary Code: 0011101101
+respiro || Binary Code: 0011101110
+pasar || Binary Code: 0011101111
+invitandolo || Binary Code: 0011110000
+como || Binary Code: 0011110001
+entreabiertas || Binary Code: 0011110010
+tallada || Binary Code: 0011110011
+madera || Binary Code: 0011110100
+puertas || Binary Code: 0011110101
+entrada || Binary Code: 0011110110
+firme || Binary Code: 0011110111
+misterio || Binary Code: 0011111000
+historia || Binary Code: 0011111001
+cargado || Binary Code: 0011111010
+sagrado || Binary Code: 0011111011
+sitio || Binary Code: 0011111100
+entrar || Binary Code: 0011111101
+punto || Binary Code: 0011111110
+sabia || Binary Code: 0011111111
+contemplar || Binary Code: 0100000000
+reverencia || Binary Code: 0100000001
+asombro || Binary Code: 0100000010
+mezcla || Binary Code: 0100000011
+dignidad || Binary Code: 0100000100
+tiempo || Binary Code: 0100000101
+resistir || Binary Code: 0100000110
+musgo || Binary Code: 0100000111
+cubierta || Binary Code: 0100001000
+hecha || Binary Code: 0100001001
+construccion || Binary Code: 0100001010
+alzaba || Binary Code: 0100001011
+mistica || Binary Code: 0100001100
+aura || Binary Code: 0100001101
+envuelto || Binary Code: 0100001110
+oculto || Binary Code: 0100001111
+vasto || Binary Code: 0100010000
+extendia || Binary Code: 0100010001
+ojos || Binary Code: 0100010010
+cima || Binary Code: 0100010011
+llego || Binary Code: 0100010100
+escalada || Binary Code: 0100010101
+ardua || Binary Code: 0100010110
+finalmente || Binary Code: 0100010111
+conocido || Binary Code: 0100011000
+alla || Binary Code: 0100011001
+respuestas || Binary Code: 0100011010
+buscar || Binary Code: 0100011011
+limites || Binary Code: 0100011100
+desafiar || Binary Code: 0100011101
+adelante || Binary Code: 0100011110
+seguir || Binary Code: 0100011111
+impulsaba || Binary Code: 0100100000
+espiritu || Binary Code: 0100100001
+detenia || Binary Code: 0100100010
+esto || Binary Code: 0100100011
+nada || Binary Code: 0100100100
+embargo || Binary Code: 0100100101
+sin || Binary Code: 0100100110
+intensidad || Binary Code: 0100100111
+mayor || Binary Code: 0100101000
+soplaba || Binary Code: 0100101001
+alcance || Binary Code: 0100101010
+parecian || Binary Code: 0100101011
+nubes || Binary Code: 0100101100
+frio || Binary Code: 0100101101
+aire || Binary Code: 0100101110
+escasa || Binary Code: 0100101111
+vegetacion || Binary Code: 0100110000
+ascendia || Binary Code: 0100110001
+verdad || Binary Code: 0100110010
+descubrir || Binary Code: 0100110011
+decidido || Binary Code: 0100110100
+mito || Binary Code: 0100110101
+consideraban || Binary Code: 0100110110
+muchos || Binary Code: 0100110111
+aunque || Binary Code: 0100111000
+nino || Binary Code: 0100111001
+esta || Binary Code: 0100111010
+hablar || Binary Code: 0100111011
+oido || Binary Code: 0100111100
+poseyera || Binary Code: 0100111101
+conceder || Binary Code: 0100111110
+tenia || Binary Code: 0100111111
+creia || Binary Code: 0101000000
+segun || Binary Code: 0101000001
+: || Binary Code: 0101000010
+invaluable || Binary Code: 0101000011
+tesoro || Binary Code: 0101000100
+albergaba || Binary Code: 0101000101
+siglos || Binary Code: 0101000110
+hace || Binary Code: 0101000111
+perdida || Binary Code: 0101001000
+civilizacion || Binary Code: 0101001001
+construido || Binary Code: 0101001010
+encontraba || Binary Code: 0101001011
+alto || Binary Code: 0101001100
+decia || Binary Code: 0101001101
+objetivo || Binary Code: 0101001110
+cerca || Binary Code: 0101001111
+tan || Binary Code: 0101010000
+estar || Binary Code: 0101010001
+emocion || Binary Code: 0101010010
+fisico || Binary Code: 0101010011
+esfuerzo || Binary Code: 0101010100
+fuerza || Binary Code: 0101010101
+latia || Binary Code: 0101010110
+obstaculo || Binary Code: 0101010111
+superar || Binary Code: 0101011000
+logro || Binary Code: 0101011001
+experiencia || Binary Code: 0101011010
+avance || Binary Code: 0101011011
+dificultaban || Binary Code: 0101011100
+penascos || Binary Code: 0101011101
+rocas || Binary Code: 0101011110
+pie || Binary Code: 0101011111
+continuo || Binary Code: 0101100000
+seguro || Binary Code: 0101100001
+claro || Binary Code: 0101100010
+asegurarlo || Binary Code: 0101100011
+desmonto || Binary Code: 0101100100
+desafiante || Binary Code: 0101100101
+empinado || Binary Code: 0101100110
+volvia || Binary Code: 0101100111
+ascenso || Binary Code: 0101101000
+alli || Binary Code: 0101101001
+base || Binary Code: 0101101010
+llegaron || Binary Code: 0101101011
+varias || Binary Code: 0101101100
+despues || Binary Code: 0101101101
+posible || Binary Code: 0101101110
+rastro || Binary Code: 0101101111
+menor || Binary Code: 0101110000
+dejar || Binary Code: 0101110001
+procuraba || Binary Code: 0101110010
+siempre || Binary Code: 0101110011
+rodeaba || Binary Code: 0101110100
+entorno || Binary Code: 0101110101
+respeto || Binary Code: 0101110110
+profundo || Binary Code: 0101110111
+sentia || Binary Code: 0101111000
+naturaleza || Binary Code: 0101111001
+diversidad || Binary Code: 0101111010
+belleza || Binary Code: 0101111011
+recordatorio || Binary Code: 0101111100
+encuentro || Binary Code: 0101111101
+alegres || Binary Code: 0101111110
+melodias || Binary Code: 0101111111
+cantaban || Binary Code: 0110000000
+brillantes || Binary Code: 0110000001
+colores || Binary Code: 0110000010
+aves || Binary Code: 0110000011
+ramas || Binary Code: 0110000100
+correteando || Binary Code: 0110000101
+ardillas || Binary Code: 0110000110
+tranquilamente || Binary Code: 0110000111
+pastando || Binary Code: 0110001000
+ciervos || Binary Code: 0110001001
+bosque || Binary Code: 0110001010
+habitantes || Binary Code: 0110001011
+varios || Binary Code: 0110001100
+trayecto || Binary Code: 0110001101
+durante || Binary Code: 0110001110
+susurraban || Binary Code: 0110001111
+altos || Binary Code: 0110010000
+arboles || Binary Code: 0110010001
+oscuros || Binary Code: 0110010010
+densos || Binary Code: 0110010011
+bosques || Binary Code: 0110010100
+dieron || Binary Code: 0110010101
+onduladas || Binary Code: 0110010110
+colinas || Binary Code: 0110010111
+verdes || Binary Code: 0110011000
+cambiaba || Binary Code: 0110011001
+paisaje || Binary Code: 0110011010
+avanzaban || Binary Code: 0110011011
+enigmas || Binary Code: 0110011100
+desentranando || Binary Code: 0110011101
+secretos || Binary Code: 0110011110
+conociendo || Binary Code: 0110011111
+region || Binary Code: 0110100000
+rincon || Binary Code: 0110100001
+explorando || Binary Code: 0110100010
+anos || Binary Code: 0110100011
+pasado || Binary Code: 0110100100
+bien || Binary Code: 0110100101
+conocia || Binary Code: 0110100110
+peligroso || Binary Code: 0110100111
+menudo || Binary Code: 0110101000
+sinuoso || Binary Code: 0110101001
+conducia || Binary Code: 0110101010
+sendero || Binary Code: 0110101011
+majestuosas || Binary Code: 0110101100
+alzaban || Binary Code: 0110101101
+norte || Binary Code: 0110101110
+montarlo || Binary Code: 0110101111
+manzana || Binary Code: 0110110000
+ofrecio || Binary Code: 0110110001
+crin || Binary Code: 0110110010
+acaricio || Binary Code: 0110110011
+verlo || Binary Code: 0110110100
+suavemente || Binary Code: 0110110101
+relincho || Binary Code: 0110110110
+inteligente || Binary Code: 0110110111
+mirada || Binary Code: 0110111000
+negro || Binary Code: 0110111001
+pelaje || Binary Code: 0110111010
+animal || Binary Code: 0110111011
+noble || Binary Code: 0110111100
+caballo || Binary Code: 0110111101
+companero || Binary Code: 0110111110
+fiel || Binary Code: 0110111111
+esperaba || Binary Code: 0111000000
+establo || Binary Code: 0111000001
+descubrimientos || Binary Code: 0111000010
+anotar || Binary Code: 0111000011
+cuaderno || Binary Code: 0111000100
+pequeno || Binary Code: 0111000101
+mapas || Binary Code: 0111000110
+brujula || Binary Code: 0111000111
+provisiones || Binary Code: 0111001000
+guardado || Binary Code: 0111001001
+recogio || Binary Code: 0111001010
+hombros || Binary Code: 0111001011
+capa || Binary Code: 0111001100
+aseguro || Binary Code: 0111001101
+comodas || Binary Code: 0111001110
+gastadas || Binary Code: 0111001111
+botas || Binary Code: 0111010000
+unas || Binary Code: 0111010001
+resistente || Binary Code: 0111010010
+cuero || Binary Code: 0111010011
+pantalones || Binary Code: 0111010100
+lino || Binary Code: 0111010101
+camisa || Binary Code: 0111010110
+consistia || Binary Code: 0111010111
+atuendo || Binary Code: 0111011000
+prepararse || Binary Code: 0111011001
+comenzo || Binary Code: 0111011010
+cama || Binary Code: 0111011011
+levanto || Binary Code: 0111011100
+agilidad || Binary Code: 0111011101
+leyendas || Binary Code: 0111011110
+misterios || Binary Code: 0111011111
+expedicion || Binary Code: 0111100000
+emprenderia || Binary Code: 0111100001
+; || Binary Code: 0111100010
+cualquiera || Binary Code: 0111100011
+labios || Binary Code: 0111100100
+dibujo || Binary Code: 0111100101
+sonrisa || Binary Code: 0111100110
+rostro || Binary Code: 0111100111
+ilumino || Binary Code: 0111101000
+rayo || Binary Code: 0111101001
+primer || Binary Code: 0111101010
+jornada || Binary Code: 0111101011
+iniciar || Binary Code: 0111101100
+ultimo || Binary Code: 0111101101
+disfrutando || Binary Code: 0111101110
+perezosamente || Binary Code: 0111101111
+estiro || Binary Code: 0111110000
+cercanos || Binary Code: 0111110001
+florecian || Binary Code: 0111110010
+silvestres || Binary Code: 0111110011
+flores || Binary Code: 0111110100
+aroma || Binary Code: 0111110101
+consigo || Binary Code: 0111110110
+traia || Binary Code: 0111110111
+pequena || Binary Code: 0111111000
+abierta || Binary Code: 0111111001
+ventana || Binary Code: 0111111010
+entraba || Binary Code: 0111111011
+brisa || Binary Code: 0111111100
+emociones || Binary Code: 0111111101
+espera || Binary Code: 0111111110
+sabe || Binary Code: 0111111111
+propio || Binary Code: 1000000000
+entusiasmo || Binary Code: 1000000001
+desperto || Binary Code: 1000000010
+joven || Binary Code: 1000000011
+horizonte || Binary Code: 1000000100
+asomaba || Binary Code: 1000000101
+apenas || Binary Code: 1000000110
+cuando || Binary Code: 1000000111
+primavera || Binary Code: 1000001000
+fresca || Binary Code: 1000001001
+manana || Binary Code: 1000001010
+============================================================
+--------------------------LISTA v4 (Alfabetica) --------------------------
+Cantidad de Comparaciones QS: 742
+Palabra: 
+
+Palabra:  
+Palabra: ,
+Palabra: .
+Palabra: :
+Palabra: ;
+Palabra: a
+Palabra: abierta
+Palabra: ac
+Palabra: acaricio
+Palabra: acerco
+Palabra: adelante
+Palabra: adipiscing
+Palabra: adquirido
+Palabra: agilidad
+Palabra: aire
+Palabra: al
+Palabra: albergaba
+Palabra: alcance
+Palabra: alegres
+Palabra: aliquam
+Palabra: alla
+Palabra: alli
+Palabra: alrededor
+Palabra: alto
+Palabra: altos
+Palabra: alzaba
+Palabra: alzaban
+Palabra: ambiente
+Palabra: amet
+Palabra: animal
+Palabra: anos
+Palabra: anotar
+Palabra: ante
+Palabra: antes
+Palabra: antiguas
+Palabra: antiguo
+Palabra: antiguos
+Palabra: apenas
+Palabra: aquellos
+Palabra: arboles
+Palabra: ardillas
+Palabra: ardua
+Palabra: aroma
+Palabra: ascendia
+Palabra: ascenso
+Palabra: asegurarlo
+Palabra: aseguro
+Palabra: asomaba
+Palabra: asombro
+Palabra: at
+Palabra: atuendo
+Palabra: aunque
+Palabra: aura
+Palabra: avance
+Palabra: avanzaban
+Palabra: avanzo
+Palabra: aventura
+Palabra: aventurero
+Palabra: aves
+Palabra: azules
+Palabra: base
+Palabra: batallas
+Palabra: belleza
+Palabra: bien
+Palabra: bosque
+Palabra: bosques
+Palabra: botas
+Palabra: brillando
+Palabra: brillantes
+Palabra: brisa
+Palabra: brujula
+Palabra: buscar
+Palabra: caballo
+Palabra: cabana
+Palabra: cada
+Palabra: calma
+Palabra: cama
+Palabra: cambiaba
+Palabra: camino
+Palabra: camisa
+Palabra: campos
+Palabra: cantaban
+Palabra: capa
+Palabra: capacidad
+Palabra: cargado
+Palabra: casa
+Palabra: cautela
+Palabra: centro
+Palabra: cerca
+Palabra: cercanos
+Palabra: ceremonias
+Palabra: ciervos
+Palabra: cima
+Palabra: civilizacion
+Palabra: claro
+Palabra: colinas
+Palabra: colores
+Palabra: comenzo
+Palabra: como
+Palabra: comodas
+Palabra: companero
+Palabra: compartir
+Palabra: comprendio
+Palabra: comun
+Palabra: con
+Palabra: conceder
+Palabra: conducia
+Palabra: conexion
+Palabra: congue
+Palabra: conocia
+Palabra: conocido
+Palabra: conociendo
+Palabra: conocimiento
+Palabra: consectetur
+Palabra: consideraban
+Palabra: consigo
+Palabra: consistia
+Palabra: constante
+Palabra: construccion
+Palabra: constructores
+Palabra: construido
+Palabra: contemplar
+Palabra: continuo
+Palabra: convallis
+Palabra: corazon
+Palabra: correteando
+Palabra: cosas
+Palabra: creia
+Palabra: crin
+Palabra: cristal
+Palabra: cruzo
+Palabra: cuaderno
+Palabra: cualquiera
+Palabra: cuando
+Palabra: cubierta
+Palabra: cubiertas
+Palabra: cuero
+Palabra: de
+Palabra: decia
+Palabra: decidido
+Palabra: dejar
+Palabra: del
+Palabra: delicadeza
+Palabra: densos
+Palabra: desafiante
+Palabra: desafiar
+Palabra: descansaba
+Palabra: descubrimiento
+Palabra: descubrimientos
+Palabra: descubrir
+Palabra: desde
+Palabra: desentranando
+Palabra: desmonto
+Palabra: desperto
+Palabra: despues
+Palabra: detalle
+Palabra: detenia
+Palabra: determinacion
+Palabra: dia
+Palabra: dibujo
+Palabra: dieron
+Palabra: dificultaban
+Palabra: dignidad
+Palabra: dirigio
+Palabra: disfrutando
+Palabra: diversidad
+Palabra: dolor
+Palabra: donde
+Palabra: durante
+Palabra: eget
+Palabra: el
+Palabra: elit
+Palabra: emanaba
+Palabra: embargo
+Palabra: emocion
+Palabra: emociones
+Palabra: empinado
+Palabra: emprenderia
+Palabra: emprendieron
+Palabra: en
+Palabra: encontraba
+Palabra: encuentro
+Palabra: energia
+Palabra: enigmas
+Palabra: enim
+Palabra: entorno
+Palabra: entraba
+Palabra: entrada
+Palabra: entrar
+Palabra: entre
+Palabra: entreabiertas
+Palabra: entusiasmo
+Palabra: envuelto
+Palabra: epicas
+Palabra: epoca
+Palabra: era
+Palabra: erat
+Palabra: escalada
+Palabra: escasa
+Palabra: ese
+Palabra: esfuerzo
+Palabra: espera
+Palabra: esperaba
+Palabra: esperanza
+Palabra: espiritu
+Palabra: est
+Palabra: esta
+Palabra: estaba
+Palabra: estaban
+Palabra: establo
+Palabra: estar
+Palabra: este
+Palabra: estiro
+Palabra: esto
+Palabra: et
+Palabra: eu
+Palabra: exito
+Palabra: expedicion
+Palabra: experiencia
+Palabra: explorando
+Palabra: extendia
+Palabra: extendio
+Palabra: facilisis
+Palabra: faucibus
+Palabra: felis
+Palabra: feugiat
+Palabra: fiel
+Palabra: filtraban
+Palabra: finalmente
+Palabra: finibus
+Palabra: firme
+Palabra: fisico
+Palabra: florecian
+Palabra: flores
+Palabra: fresca
+Palabra: fresco
+Palabra: fringilla
+Palabra: frio
+Palabra: fuerza
+Palabra: fusce
+Palabra: futuras
+Palabra: gastadas
+Palabra: generaciones
+Palabra: grabados
+Palabra: grandes
+Palabra: gratitud
+Palabra: grietas
+Palabra: guardado
+Palabra: guardo
+Palabra: guia
+Palabra: habia
+Palabra: habian
+Palabra: habitantes
+Palabra: hablar
+Palabra: hace
+Palabra: hacia
+Palabra: hecha
+Palabra: hendrerit
+Palabra: hermoso
+Palabra: historia
+Palabra: historias
+Palabra: hombros
+Palabra: hondo
+Palabra: horas
+Palabra: horizonte
+Palabra: hoy
+Palabra: iluminado
+Palabra: ilumino
+Palabra: imaginado
+Palabra: impregnado
+Palabra: impulsaba
+Palabra: in
+Palabra: infinita
+Palabra: iniciar
+Palabra: inscripciones
+Palabra: inteligente
+Palabra: intensidad
+Palabra: interior
+Palabra: inundo
+Palabra: invaluable
+Palabra: invitandolo
+Palabra: ipsum
+Palabra: jornada
+Palabra: joven
+Palabra: juntos
+Palabra: justo
+Palabra: la
+Palabra: labios
+Palabra: lacinia
+Palabra: largo
+Palabra: las
+Palabra: latia
+Palabra: le
+Palabra: lentamente
+Palabra: leo
+Palabra: levanto
+Palabra: leyenda
+Palabra: leyendas
+Palabra: ligula
+Palabra: limites
+Palabra: lino
+Palabra: llamado
+Palabra: llegaron
+Palabra: llego
+Palabra: lleno
+Palabra: lo
+Palabra: lobortis
+Palabra: lograr
+Palabra: logro
+Palabra: lorem
+Palabra: los
+Palabra: luctus
+Palabra: lugar
+Palabra: luz
+Palabra: madera
+Palabra: majestuosas
+Palabra: manana
+Palabra: mano
+Palabra: manzana
+Palabra: mapas
+Palabra: marcos
+Palabra: mas
+Palabra: massa
+Palabra: mauris
+Palabra: mayor
+Palabra: medida
+Palabra: melodias
+Palabra: menor
+Palabra: mente
+Palabra: menudo
+Palabra: mezcla
+Palabra: mirada
+Palabra: misterio
+Palabra: misterios
+Palabra: mistica
+Palabra: mito
+Palabra: mochila
+Palabra: momento
+Palabra: montanas
+Palabra: montarlo
+Palabra: monto
+Palabra: muchos
+Palabra: mundo
+Palabra: musgo
+Palabra: nada
+Palabra: narraban
+Palabra: naturaleza
+Palabra: negro
+Palabra: nibh
+Palabra: nino
+Palabra: no
+Palabra: noble
+Palabra: norte
+Palabra: nubes
+Palabra: nuevamente
+Palabra: nullam
+Palabra: objetivo
+Palabra: observando
+Palabra: obstaculo
+Palabra: oculto
+Palabra: ofrecio
+Palabra: oido
+Palabra: ojos
+Palabra: onduladas
+Palabra: ornare
+Palabra: oscuros
+Palabra: otra
+Palabra: paisaje
+Palabra: pantalones
+Palabra: para
+Palabra: parecia
+Palabra: parecian
+Palabra: paredes
+Palabra: pasado
+Palabra: pasar
+Palabra: paso
+Palabra: pastando
+Palabra: pedestal
+Palabra: pelaje
+Palabra: peligroso
+Palabra: pellentesque
+Palabra: penascos
+Palabra: penumbra
+Palabra: pequena
+Palabra: pequeno
+Palabra: perdida
+Palabra: perezosamente
+Palabra: pero
+Palabra: personas
+Palabra: pie
+Palabra: piedra
+Palabra: placerat
+Palabra: poder
+Palabra: por
+Palabra: poseyera
+Palabra: posible
+Palabra: praesent
+Palabra: prepararse
+Palabra: pretium
+Palabra: primavera
+Palabra: primer
+Palabra: principal
+Palabra: procuraba
+Palabra: profunda
+Palabra: profundo
+Palabra: propio
+Palabra: proposito
+Palabra: provisiones
+Palabra: puertas
+Palabra: punto
+Palabra: que
+Palabra: quien
+Palabra: quis
+Palabra: ramas
+Palabra: rastro
+Palabra: rayo
+Palabra: rayos
+Palabra: recogio
+Palabra: recordatorio
+Palabra: region
+Palabra: regreso
+Palabra: relincho
+Palabra: renovada
+Palabra: residia
+Palabra: resistente
+Palabra: resistir
+Palabra: respeto
+Palabra: respiro
+Palabra: respuestas
+Palabra: reverencia
+Palabra: rincon
+Palabra: rituales
+Palabra: rocas
+Palabra: rodeaba
+Palabra: rostro
+Palabra: sabe
+Palabra: sabia
+Palabra: sabiduria
+Palabra: sabiendo
+Palabra: sagrado
+Palabra: sala
+Palabra: salio
+Palabra: se
+Palabra: secretos
+Palabra: sed
+Palabra: seguir
+Palabra: segun
+Palabra: seguro
+Palabra: sendero
+Palabra: sentia
+Palabra: seria
+Palabra: sido
+Palabra: siempre
+Palabra: siglos
+Palabra: silvestres
+Palabra: sin
+Palabra: sino
+Palabra: sintiendo
+Palabra: sintio
+Palabra: sinuoso
+Palabra: sit
+Palabra: sitio
+Palabra: sobre
+Palabra: sol
+Palabra: solo
+Palabra: sonrisa
+Palabra: soplaba
+Palabra: su
+Palabra: suave
+Palabra: suavemente
+Palabra: superar
+Palabra: sus
+Palabra: susurraban
+Palabra: tallada
+Palabra: tan
+Palabra: templo
+Palabra: tenia
+Palabra: tesoro
+Palabra: tiempo
+Palabra: tincidunt
+Palabra: tomo
+Palabra: tortor
+Palabra: trabajando
+Palabra: traia
+Palabra: tranquilamente
+Palabra: tranquilo
+Palabra: tras
+Palabra: trayecto
+Palabra: trueno
+Palabra: ullamcorper
+Palabra: ultimo
+Palabra: umbral
+Palabra: un
+Palabra: una
+Palabra: unas
+Palabra: unir
+Palabra: urna
+Palabra: ut
+Palabra: valle
+Palabra: varias
+Palabra: varios
+Palabra: vasto
+Palabra: vegetacion
+Palabra: vehicula
+Palabra: velit
+Palabra: venenatis
+Palabra: venido
+Palabra: venir
+Palabra: ventana
+Palabra: verdad
+Palabra: verdadero
+Palabra: verdes
+Palabra: verlo
+Palabra: viaje
+Palabra: viento
+Palabra: vio
+Palabra: vision
+Palabra: vivamus
+Palabra: volutpat
+Palabra: volvia
+Palabra: vuelta
+Palabra: y
+Cabeza: 
+
+Last: y
+Palabras diferentes (tamano de la lista): 523
+============================================================
